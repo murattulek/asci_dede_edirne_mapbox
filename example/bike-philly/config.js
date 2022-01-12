@@ -1,6 +1,6 @@
 var config = {
-    style: 'mapbox://styles/branigan/cjzsvonse027m1co4nkxp13b3',
-    accessToken: 'pk.eyJ1IjoibWJ4c29sdXRpb25zIiwiYSI6ImNrMm01aG9hdTBlZGwzbXQ1ZXVrNHNmejAifQ.QHQA0N6XPWddCXtvoODHZg',
+    style: 'mapbox://styles/murattulek/ckjjuyujf0le519piqpk2o63g',
+    accessToken: 'pk.eyJ1IjoibXVyYXR0dWxlayIsImEiOiIyOWI3NDhlYWM3MmI0NzMzZDkxNmFmYWMyOGYwNTA2ZiJ9.xNX3bJK-pE-BbBhBHx4kDg',
     showMarkers: false,
     theme: 'light',
     title: '',
