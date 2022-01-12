@@ -1,6 +1,6 @@
 var config = {
-    style: 'mapbox://styles/mapbox/streets-v11',
-    accessToken: 'YOUR_ACCESS_TOKEN',
+    style: 'mapbox://styles/murattulek/ckjjuyujf0le519piqpk2o63g',
+    accessToken: 'pk.eyJ1IjoibXVyYXR0dWxlayIsImEiOiIyOWI3NDhlYWM3MmI0NzMzZDkxNmFmYWMyOGYwNTA2ZiJ9.xNX3bJK-pE-BbBhBHx4kDg',
     showMarkers: true,
     markerColor: '#3FB1CE',
     theme: 'light',
