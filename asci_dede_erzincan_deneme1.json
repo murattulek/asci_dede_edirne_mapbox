@@ -1,0 +1,3469 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1005",
+        "name": "Trabzon",
+        "type": "şehir",
+        "who": "Aşçı Dede",
+        "date_general": "İstanbul'dan Erzurum'a gidişi; yolda",
+        "date": "",
+        "text": "İşte bu hâl ile Siyah Deniz’in yüzünü ak ederek lehu’Lhamdu ve’l-minne’ mahzâ Cenâb-ı Mevlânâ kuddise sırruhu’l-azîz efendimizin imdâd-ı rûhânîlerinden olarak İstanbul’dan nasıl ayrıldık ise öylece Trabzon’a vâsıl olduk; yani Kâğıthane denizinde gider gibi fırtmasız ve dalgasız gittik. Hatta “ Bu denizin bu mevsimde böyle uyuduğunu görmedik ” dediler. Derhâl şöyle gönlüme [332] geldi ki hâmil olduğumuz deryâ-yı aşk, Karadeniz’i bastırıp harekete mecâli kalmadı, çünkü şubat içinde böyle hava olmaz idi, meğer ki lutf-ı ilâhiyye ola."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.72044,
+          41.00242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1006",
+        "name": "Bayburt",
+        "type": "şehir",
+        "who": "Aşçı Dede",
+        "date_general": "İstanbul'dan Erzurum'a gidişi; yolda",
+        "date": "",
+        "text": "Bayburt’a vardık."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.22503,
+          40.26155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1007",
+        "name": "Erzurum",
+        "type": "şehir",
+        "who": "Aşçı Dede",
+        "date_general": "İstanbul'dan Erzurum'a varış",
+        "date": "Nisan-Mayıs 1856",
+        "text": "Hele hamd olsun, bir cebel üzerinden Erzurum ovası müşahede olundu. Görür görmez fakirden neşe kutusu, balyemez topu patlar gibi patladı. Aşk, cûş u hurûşa gelip bülend avaz ile okuduğum Na’t-ı Mevlânâ dağları çınlattı. Ve yanımızda bulunan askerler dahi fakirin neşesiyle neşeyâb olup onlar da kayabaşı türkülerini aldırdılar. Mekkâreciler de hayvanları neşe ile sürmeye başladılar, işte o cebel başında zuhur eden neşem bir ay fakire kâfi olup o neşe ile Erzurum’a dahil olduk. Çünkü Trabzon’dan çıkıp oraya gelinceye kadar dağlar ve karlar içinde yuvarlanarak gelmiş idik, işte bir akşam üzeri Erzurum’a muvasalat olundu."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.27486,
+          39.90743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "301",
+        "name": "Yenikapı",
+        "type": "semt",
+        "who": "Aşçı Dede",
+        "date_general": "Erzurum dönemi",
+        "date": "1856",
+        "text": "Velhâsıl Yenikapı’da Ferik Veli Paşa hazretlerinin konağı karşısında bir hane istikra edip odanın birisini şöyle mefruşat ile döşedik. Pederim ile bir de uşağımız hanede rahat ederler; fakir de sabah akşam memuriyetime gider gelirim."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.27456,
+          39.90433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001",
+        "name": "Dersaadet",
+        "type": "şehir",
+        "who": "pederi Mehmed Ali Ağa",
+        "date_general": "",
+        "date": "1856",
+        "text": "Badehu akçeleri pederime teslimen bade’l-îd gerisi gerisine iade ettim ve oraca alınacak şeyleri bir defter edip kendisine verdim. Ve validemin birader beyin elinden kurtarıp onu ve pederimin haremini ve fakirin haremiyle Hüsameddin Çelebi’yi emnen ve sâlimen getirmelerini rica ederek yedine yol buyruldusu verilerek ma’a’s-selâm diyerek yola revan oldular. Lâkin bu kaziye bayram ertesi idi, Çünkü Şa’bân-ı şerîfte Erzurum’a vâsıl olduk, ramazân-ı şerîfi tuttuk, badehu bayram ertesi pederi böylece yola revan ettik."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.951,
+          41.01408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "302",
+        "name": "Boyahane Mahallesi, Erzurum",
+        "type": "mahalle",
+        "who": "Aşçı Dede",
+        "date_general": "Erzurum dönemi",
+        "date": "1856",
+        "text": "Oturduğum hane ufak olduğundan Boyahane Mahallesi’nde diğer fevkanî bir konak istikra ettim. Artık Hüsameddin Çelebi efendimiz için gayet sûret-i muntazamada her odasını bir renge boyadım; yani mefruşatını mükemmel ettim ve beher gün muntazır-ı dîdâr-ı Çelebi oldum. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.27232,
+          39.90802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1007",
+        "name": "Erzurum",
+        "type": "şehir",
+        "who": "pederi Mehmed Ali Ağa ve haremi, Aşçı Dede'nin haremi ve oğlu Hüsameddin Çelebi, ve validesi",
+        "date_general": "Erzurum dönemi, Aşçı Dede'nin oğlu Hüsameddin Çelebi tam iki yaşında",
+        "date": "1856",
+        "text": "Peder ve validenin istikbaline gittim. Cümleten memnunen ve mesruren dâhil-i hâne-i bî-minnet oldular. îşte Hüsameddin Çelebi tam iki yaşında idi, Erzurum’a kadem-nihâde oldu. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.27486,
+          39.90743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001",
+        "name": "Dersaadet",
+        "type": "şehir",
+        "who": "pederi Mehmed Ali Ağa ve üvey validesi",
+        "date_general": "Erzurum dönemi",
+        "date": "1856",
+        "text": "İki ay sonra hikmet-i rabbânî üvey validem, asıl validem ile imtizaç edemeyip ara yere bir infial zuhur etti. Zaten asil validem evvelce arz olunduğu üzere kendisine gelen illetten dolayı pederim tatlîk etmiş idi. Bu cihetle ara yerlerinde bir şey yok iken her nasılsa pederim de haremine tebaiyet ederek bunlar İstanbul’a gitmeye kıyam ettiler. Fakir de pederimin ve validemin rızasını almak için rûy-ı rızâ gösterdim. Binaenaleyh pederime maaşımdan sipariş tahsis ve yol harçlıklarını ma’a-ziyâdetin ita ederek memnunen ve mesturen Dersaadet’e avdet ettiler. Kaldık validem ile harem."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.951,
+          41.01408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "150",
+        "name": "Erzincan Ovası",
+        "type": "ova",
+        "who": "Aşçı Dede",
+        "date_general": "Erzincan'a gidiş",
+        "date": "",
+        "text": "Bu hâl ile Erzincan’ın ovasına indik. Lâkin ovadan daha nefs-i Erzincan’a bir günlük yol vardır. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.57047,
+          39.72734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1008",
+        "name": "Erzincan",
+        "type": "şehir",
+        "who": "Aşçı Dede",
+        "date_general": "Erzincan'a varış",
+        "date": "",
+        "text": "Velhâsıl zâhiren sûret-i gaflette, bâtınen sûret-i irfânda dâhil-i Erzincan-ı bâg-cinân olduk. O tarih ki bin iki yüz yetmiş iki senesinin evâhiri idi, iyice hatırımda yoktur, zann-ı gâlibim, bin iki yüz yetmiş üç senesi Muharremin ipti ­ daları [Eylül 1856] veyahut yevm-i âşûra [9 Ekim 1.856] gibi bir şey idi, ya olmuş ya olacak idi. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.4927,
+          39.74876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "147",
+        "name": "Şeyh Vehbî Hayyât'ın Erzincan'a girer iken mezarlığın kenarındaki türbesi",
+        "type": "türbe",
+        "who": "Şeyh Vehbî Hayyât ",
+        "date_general": "",
+        "date": "",
+        "text": "Esnâ-yı muhabbette mumaileyhten Erzincan’da büyük meşâyıhtan kimler olduğunu sual ettim. “ Hoca Fehmi Efendi hazretleri vardır. Zâhir ü bâtın pek büyüklerdendir; yani ehlullâhtan olduğuna şüphe yoktur. Tarîk-i Hâlidî hulefâsından ve daima cuma [340] ve isneyn geceleri hatm-i hâcegân kıraat ettirirler ve Şeyh Vehbî Hayyât kuddise sırruhu’l-azîz hazretlerinin halifeleridir. Hani ya, Erzincan’a girer iken kabristanın kenarında müşahede olunan türbe-i şerîfe yok mu, işte o türbe müşarünileyh Şeyh Vehbî Hayyât hazretlerinin türbe-i şerifidir ” diye ifade ettiler."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.49774,
+          39.71643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "151",
+        "name": "Erzincan'ın cami-i kebiri",
+        "type": "cami",
+        "who": "Aşçı Dede",
+        "date_general": "Erzincan dönemi, Cuma günü",
+        "date": "1856",
+        "text": "İşte bu muhabbetler ile câmi’-i kebîre gittik. Çünkü Erzincan’ın ufak mescitleri pek çok olup bu câmi’-i kebîr ismiyle müsemma olan cami onlara nispeten büyük olduğu için câmi’-i kebîr tesmiye olunmuştur. Cuma günleri cümle ahali ve memurin oraya edâ-yı salât-ı cum’a için gelirler. Aşk u muhabbetimiz, bizi er ­ kenden câmi’-i kebîre soktu. Daha kimseler yoktur, ancak müezzin mahfilinde Kur’an okunur idi. İsmail Efendi ile beraberce ilk safta oturduk. Yüzümüz kıbleye karşıdır. [341] Vakit geldikçe ahali peyderpey camiye gelmeye başladılar. Fakir o zaman daha Hâlidîler gibi teveccüh ve rabıta bilmediğimden hayvan gibi iki tarafıma bakardım. Bu bakışta güya birisi kulağıma “ Ardına bak! ” gibi söz söyledi. Bir de ardıma dönüp baktım ki tamam.fakirin ardında bir boz renkli aba içinde başında arakiye ve üzerinde beyaz sarık, başı aşağı teveccühte oturur, yüzü görünmez.bir zat oturur olduğunu görür görmez şimşek gibi kalbime bir şey çarpıp kalbimde bir hareket zuhur ve azalarıma bir cümbüş ârız olmakla o zatın Hoca Fehmi Efendi hazretlerini olduğunu hissettim. Hafiyen İsmail Efendi’ye dedim ki “ Arkamızda bir zat oturuyor. Fehmi Efendi hazretleri bu mudur? ” İsmail Efendi baktı, dedi ki “ İşte odur. ” Bu sözü işittiğimde vücut ve serimde bir halecan hâsıl oldu ki kalem .-ile tavsif ü tarif edemeyeceğimden ehl-i insâfm ve uşşâkm vicdanına havale ederim."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.48879,
+          39.72343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "152",
+        "name": "Şeyh Fehmi Efendi'nin cami-i kebirin hemen ittisali gibi kırk elli adım mesafedeki hanesi",
+        "type": "hane/tekke",
+        "who": "Aşçı Dede",
+        "date_general": "Erzincan dönemi, bir üstteki ile aynı gün",
+        "date": "1856",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.48775,
+          39.72338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "154",
+        "name": "Şeyh Fehmi Efendi'nin selefi Mehmed Vehbi Hayyat Efendi'nin damadı Abdussamed Efendi'nin cami-i kebir civarındaki hanesi",
+        "type": "hane",
+        "who": "Aşçı Dede",
+        "date_general": "Erzincan dönemi, bir üstteki ile aynı gün",
+        "date": "1856",
+        "text": "Oradan mumaileyh İsmail Efendi dedi ki “ Artık bugün sizin bayrammızdır, buyurun Abdussamed Efendi hazretlerinin ziyaretine de gidelim. ” Sual ettim: “ O zat, kimdir? ” dediler ki “ Şeyh Hayyât kuddise sırruhu’l-azîz hazretlerinin damadıdır ve hem de müşarünileyh efendimiz hazretlerinin hâne-i sa’âdetlerini ziyaret edersiniz."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.48797,
+          39.72409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "152",
+        "name": "Şeyh Fehmi Efendi'nin cami-i kebirin hemen ittisali gibi kırk elli adım mesafedeki hanesi",
+        "type": "hane/tekke",
+        "who": "Aşçı Dede",
+        "date_general": "Erzincan dönemi",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.48775,
+          39.72338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "154",
+        "name": "Şeyh Fehmi Efendi'nin selefi Mehmed Vehbi Hayyat Efendi'nin damadı Abdussamed Efendi'nin cami-i kebir civarındaki hanesi",
+        "type": "hane",
+        "who": "Aşçı Dede",
+        "date_general": "Erzincan dönemi",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.48797,
+          39.72409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "152",
+        "name": "Şeyh Fehmi Efendi'nin cami-i kebirin hemen ittisali gibi kırk elli adım mesafedeki hanesi",
+        "type": "hane/tekke",
+        "who": "Aşçı Dede",
+        "date_general": "Erzincan dönemi",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.48775,
+          39.72338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "154",
+        "name": "Şeyh Fehmi Efendi'nin selefi Mehmed Vehbi Hayyat Efendi'nin damadı Abdussamed Efendi'nin cami-i kebir civarındaki hanesi",
+        "type": "hane",
+        "who": "Aşçı Dede",
+        "date_general": "Erzincan dönemi, bir üsttekinin ertesi günü",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.48797,
+          39.72409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "152",
+        "name": "Şeyh Fehmi Efendi'nin cami-i kebirin hemen ittisali gibi kırk elli adım mesafedeki hanesi",
+        "type": "hane/tekke",
+        "who": "Aşçı Dede",
+        "date_general": "Erzincan dönemi, bir üstteki ile aynı gün",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.48775,
+          39.72338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "152",
+        "name": "Şeyh Fehmi Efendi'nin cami-i kebirin hemen ittisali gibi kırk elli adım mesafedeki hanesi",
+        "type": "hane/tekke",
+        "who": "Aşçı Dede",
+        "date_general": "Erzincan dönemi",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.48775,
+          39.72338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "152",
+        "name": "Şeyh Fehmi Efendi'nin cami-i kebirin hemen ittisali gibi kırk elli adım mesafedeki hanesi",
+        "type": "hane/tekke",
+        "who": "Şeyh Fehmi Efendi ve yanındaki cümle zevat",
+        "date_general": "Erzincan dönemi",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.48775,
+          39.72338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "152",
+        "name": "Şeyh Fehmi Efendi'nin cami-i kebirin hemen ittisali gibi kırk elli adım mesafedeki hanesi",
+        "type": "hane/tekke",
+        "who": "Ordu Müşiri İsmail Paşa",
+        "date_general": "Erzincan dönemi",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.48775,
+          39.72338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "152",
+        "name": "Şeyh Fehmi Efendi'nin cami-i kebirin hemen ittisali gibi kırk elli adım mesafedeki hanesi",
+        "type": "hane/tekke",
+        "who": "Reis-i Meclis Derviş Paşa",
+        "date_general": "Erzincan dönemi",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.48775,
+          39.72338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "152",
+        "name": "Şeyh Fehmi Efendi'nin cami-i kebirin hemen ittisali gibi kırk elli adım mesafedeki hanesi",
+        "type": "hane/tekke",
+        "who": "Defterdar Halet Efendi",
+        "date_general": "Erzincan dönemi",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.48775,
+          39.72338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "152",
+        "name": "Şeyh Fehmi Efendi'nin cami-i kebirin hemen ittisali gibi kırk elli adım mesafedeki hanesi",
+        "type": "hane/tekke",
+        "who": "Aşçı Dede",
+        "date_general": "Erzincan dönemi",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.48775,
+          39.72338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "151",
+        "name": "Erzincan cami-i kebiri",
+        "type": "cami",
+        "who": "Aşçı Dede",
+        "date_general": "Erzincan dönemi, bir üstteki ile aynı gün",
+        "date": "Nisan-Mayıs 1857",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.48879,
+          39.72343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "151",
+        "name": "Erzincan cami-i kebiri",
+        "type": "cami",
+        "who": "Şeyh Fehmi Efendi",
+        "date_general": "Erzincan dönemi",
+        "date": "Nisan-Mayıs 1857",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.48879,
+          39.72343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "151",
+        "name": "Erzincan cami-i kebiri",
+        "type": "cami",
+        "who": "Aşçı Dede",
+        "date_general": "Erzincan dönemi",
+        "date": "Nisan-Mayıs 1857",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.48879,
+          39.72343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "152",
+        "name": "Şeyh Fehmi Efendi'nin cami-i kebirin hemen ittisali gibi kırk elli adım mesafedeki hanesi",
+        "type": "hane/tekke",
+        "who": "Üçüncü Ordu-yı Hümayun Müşiri İsmail Paşa'nın gönderdiği kaftan ağası",
+        "date_general": "Erzincan dönemi",
+        "date": "28-29 Nisan 1857",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.48775,
+          39.72338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "152",
+        "name": "Şeyh Fehmi Efendi'nin cami-i kebirin hemen ittisali gibi kırk elli adım mesafedeki hanesi",
+        "type": "hane/tekke",
+        "who": "Şeyh Fehmi Efendi",
+        "date_general": "Erzincan dönemi, bir üstteki ile aynı gün",
+        "date": "28-29 Nisan 1857",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.48775,
+          39.72338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "152",
+        "name": "Şeyh Fehmi Efendi'nin cami-i kebirin hemen ittisali gibi kırk elli adım mesafedeki hanesi",
+        "type": "hane/tekke",
+        "who": "Üçüncü Ordu-yı Hümayun Müşiri İsmail Paşa",
+        "date_general": "Erzincan dönemi",
+        "date": "Nisan-Mayıs 1857",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.48775,
+          39.72338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "160",
+        "name": "Vaskirt nam mahal",
+        "type": "köy",
+        "who": "Aşçı Dede",
+        "date_general": "Erzincan dönemi",
+        "date": "2-4 Mayıs 1857",
+        "text": "Ramazânın sekizi veya onu idi ki hazret-i şeyh beraber olarak cümle ümera ve zabitan teşyi ederek, Vaskirt nam mahalle kadar azimet olundu. Dağın eteğine yakın mahalle nüzul edip orada veda olundu. Koca İsmail Paşa, koca müşîr-i zî-şân, koca âşık, hazret-i şeyhin ayağına kapanır gibi şeyler icra ederek hazret dest-i mürşidâneleriyle tutup boynuna sarıldı. Ağlar, lâkin felekler, melekler dahi o gün ağladı, lâ-şek ve lâ-şübhe. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.46494,
+          39.79111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "163",
+        "name": "Vaskirt'te Aşçı Dede'nin icar ettiği Tekbastı Mustafa Efendi'nin bahçe hanesi",
+        "type": "bahçe hane",
+        "who": "Aşçı Dede",
+        "date_general": "Erzincan dönemi, bahar-yaz mevsimleri",
+        "date": "1857",
+        "text": "Vaktaki bayram ertesi oldu ve bahar mevsimi tamamıyla geldi, ahali bahçelere nakil etmeye başladı. Hey*et-i meclis dahi Vaskirt civarında bir bahçeye nakil edeceğinden memurin ve ümera ve zabitan artık bahçe icâre etmeye kıyam ettiler. Malûm ya maşûk nerede ise âşık orada olur fehvasınca fakir de civanı hazret-i şeyhte, değil bahçe bir kümes bile olsa razıyım. Çünkü “ Canan ile samanlık seyran olur, canansız bağ ü bahçe zindân-ı nîrân olur ” meselince olunan niyâz u istirhâm-ı fakîrî üzerine zât-ı haz-ret-i mürşidü’l-azam efendimiz hazretlerinin dahi bu abd-i âsî hakkında olan lutf u merhametleri muktezasınca civâr-ı mürşidânelerine kabul ile bahçe-i saadetlerinin bir bahçe aşırısında olan Tekbastı Mustafa Efendi’nin bahçesi icar olunup oraya nakil olundu. Hazretin bahçesiyle fakirin olduğum bahçe arasında yine Tekbastızadelerden Şerif Efendi’nin bahçesi var idi."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.46394,
+          39.7907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1008",
+        "name": "Erzincan",
+        "type": "şehir",
+        "who": "ordu müşiri Kerim Paşa",
+        "date_general": "Erzincan dönemi, bade'l-id",
+        "date": "1857",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.4927,
+          39.74876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1008",
+        "name": "Erzincan",
+        "type": "şehir",
+        "who": "yeni reis-i meclis Ferik Şükrü Paşa",
+        "date_general": "Erzincan dönemi",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.4927,
+          39.74876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001",
+        "name": "Dersaadet",
+        "type": "şehir",
+        "who": "Derviş Paşa",
+        "date_general": "Erzincan dönemi",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.951,
+          41.01408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "164",
+        "name": "Vaskirt’te Ferik Şükrü Paşa'nın icar ettiği Mirliva Osman Paşa'nın bahçe konağı",
+        "type": "bahçe konak",
+        "who": "yeni reis-i meclis Ferik Şükrü Paşa",
+        "date_general": "Erzincan dönemi",
+        "date": "",
+        "text": "Vaskirt’te Mirliva Osman Paşa’nın bahçe konağını icar edip oraya nakil ettiler."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.46537,
+          39.7904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "162",
+        "name": "Şeyh Fehmi Efendi'nin Vaskirt'te bahçe konağı",
+        "type": "bahçe konak/hangah",
+        "who": "Şeyh Fehmi Efendi",
+        "date_general": "Erzincan dönemi, bahar-yaz mevsimleri",
+        "date": "",
+        "text": "Bir gece yatsıdan evvel huzûr-ı hazret-i şeyhte oturdum. Bir çavuş geldi. Hazret-i şeyh: “ Buyurun, birader ” dedi. Çavuş dedi ki “ Efendi, Reis Paşa hazretleri mahsus selâm etmişler. Çocuk ziyade keyif ­ sizdir, buyursunlar da bir nefes etsinler ” dedi. Hazret, çavuşa dedi: “ Birader, azıcık kahve ocağında rahat ol, bir kahve iç de bakalım ” dedi. Çavuş, kahve ocağına gitti; hazret, rabıtaya vardı. Bir müddet sonra başını kaldırıp çavuşu çağırdı: “ Birader, buyurun buraya ” dedi, çavuş geldi. Dedi: “ Paşaya mahsus selâm ederim; biraz rahatsızlığım vardır, gidemeyeceğim. Buradan dua ederim. Cenâb-ı Hak afiyet versin ” buyurdular. Çavuş da bir temenna edip gitti. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.46486,
+          39.79098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "153",
+        "name": "Şeyh Vehbî Hayyât'ın Erzincan'a girer iken mezarlığın kenarındaki türbesi'nin ittisali",
+        "type": "mezarlık",
+        "who": "yeni reis-i meclis Ferik Şükrü Paşa'nın üç çocuğu",
+        "date_general": "Erzincan dönemi, bahar-yaz mevsimleri",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.49718,
+          39.71718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "162",
+        "name": "Şeyh Fehmi Efendi'nin Vaskirt'te bahçe konağı",
+        "type": "bahçe konak/hangah",
+        "who": "Şeyh Fehmi Efendi",
+        "date_general": "Erzincan dönemi, bahar-yaz mevsimleri",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.46486,
+          39.79098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "163",
+        "name": "Aşçı Dede'nin Vaskirt'te bahçe hanesi",
+        "type": "bahçe hane",
+        "who": "Aşçı Dede",
+        "date_general": "Erzincan dönemi, bahar-yaz mevsimleri",
+        "date": "",
+        "text": "O âhû mestâne çeşm-i enverlerini bir nevi şive ile tahrik ederek göz göze teveccüh eder gibi ve bir mana ve bir esrar söyler gibi bir hâle koy ­ dular ki işte kâlemen bu kadarcık arz olunabilir. Bu hâlde yalnız zâhiren nutk-ı şerifleri: “ Canım, bizi ne çok seversiniz! ” nutku idi. îşte bu nutk-ı şerîfi hafiyyen fakire söyler söylemez, oradan ne hâlde ve nasıl hâne-i fakîrîye geldiğimi bilemiyorum. Ayağım bastığı yer midir, gök müdür bilemiyorum. Gözlerimden akan Nil, Fırat mıdır nedir bilmiyorum. Bu hâl ile hareme gidemeyip doğruca selâmlık odasına çıktım. Şöyle bir köşede teveccühte ağlamaya başladım. O kadar mümted oldu ki vücudum tahammülden kaldı. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.46394,
+          39.7907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "161",
+        "name": "Şeyh Fehmi Efendi'nin Vaskirt'te bahçe konağının karşısındaki ufak mescit",
+        "type": "mescit",
+        "who": "Aşçı Dede",
+        "date_general": "Erzincan dönemi, bahar-yaz mevsimleri",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.46478,
+          39.7912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "168",
+        "name": "Mehmed Vehbi Hayyat Efendi'nin Sarıgöl'deki bahçesi",
+        "type": "bahçe hane",
+        "who": "Mehmed Vehbi Hayyat Erzincani’nin damadı Abdussamed Efendi",
+        "date_general": "",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.44536,
+          39.76795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "162",
+        "name": "Şeyh Fehmi Efendi'nin Vaskirt'te bahçe konağı",
+        "type": "bahçe konak/hangah",
+        "who": "Şeyh Fehmi Efendi'nin ziyaretine gelenler: Abdussamed Efendi, Defterdar Halet Efendi, hulefa ve ihvan, ve başka diyarlardan gelip gidenler",
+        "date_general": "Erzincan dönemi",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.46486,
+          39.79098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "162",
+        "name": "Şeyh Fehmi Efendi'nin Vaskirt'te bahçe konağı",
+        "type": "bahçe konak/hangah",
+        "who": "Aşçı Dede",
+        "date_general": "Erzincan dönemi",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.46486,
+          39.79098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "163",
+        "name": "Aşçı Dede'nin Vaskirt'te icar ettiği Tekbastı Mustafa Efendi'nin bahçe hanesi",
+        "type": "bahçe hane",
+        "who": "Aşçı Dede",
+        "date_general": "Erzincan dönemi, bahar-yaz mevsimleri",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.46394,
+          39.7907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "101",
+        "name": "Kandilli",
+        "type": "semt/karye",
+        "who": "validesi Behiye Hanım, haremi Hamide Hanım ve oğlu Hüsameddin Çelebi",
+        "date_general": "",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.05726,
+          41.07354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "162",
+        "name": "Şeyh Fehmi Efendi'nin Vaskirt'te bahçe konağı",
+        "type": "bahçe konak/hangah",
+        "who": "Aşçı Dede",
+        "date_general": "Erzincan dönemi, bahar-yaz mevsimleri",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.46486,
+          39.79098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "162",
+        "name": "Şeyh Fehmi Efendi'nin Vaskirt'te bahçe konağı",
+        "type": "bahçe konak/hangah",
+        "who": "Aşçı Dede",
+        "date_general": "Erzincan dönemi, bahar-yaz mevsimleri",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.46486,
+          39.79098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "161",
+        "name": "Şeyh Fehmi Efendi'nin Vaskirt'te bahçe konağının karşısındaki ufak mescit",
+        "type": "mescit",
+        "who": "Şeyh Fehmi Efendi",
+        "date_general": "Erzincan dönemi, bahar-yaz mevsimleri",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.46478,
+          39.7912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "162",
+        "name": "Şeyh Fehmi Efendi'nin Vaskirt'te bahçe konağı",
+        "type": "bahçe konak/hangah",
+        "who": "Aşçı Dede",
+        "date_general": "Erzincan dönemi, bir üstteki ile aynı gün",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.46486,
+          39.79098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "169",
+        "name": "Mehmed Vehbi Hayyat'ın damadı Abdussamed Efendi'nin Sarıgöl'deki hanesi",
+        "type": "hane",
+        "who": "Şeyh Fehmi Efendi",
+        "date_general": "Erzincan dönemi, güz mevsimi",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.44573,
+          39.76771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "152",
+        "name": "Şeyh Fehmi Efendi'nin cami-i kebirin hemen ittisali gibi kırk elli adım mesafedeki hanesi",
+        "type": "hane",
+        "who": "Şeyh Fehmi Efendi",
+        "date_general": "Erzincan dönemi, güz mevsimi",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.48775,
+          39.72338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "154",
+        "name": "Mehmed Vehbi Hayyat Efendi'nin damadı Abdussamed Efendi'nin Erzincan şehir içinde cami-i kebir civarındaki hanesi",
+        "type": "hane",
+        "who": "Aşçı Dede",
+        "date_general": "Erzincan dönemi, güz mevsimi",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.48797,
+          39.72409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "169",
+        "name": "Abdussamed Efendi'nin Sarıgöl'deki bahçesi",
+        "type": "bahçe hane",
+        "who": "Aşçı Dede",
+        "date_general": "Erzincan dönemi, güz mevsimi",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.44573,
+          39.76771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "154",
+        "name": "Mehmed Vehbi Hayyat Efendi'nin damadı Abdussamed Efendi'nin Erzincan şehir içinde cami-i kebir civarındaki hanesi",
+        "type": "hane",
+        "who": "Aşçı Dede",
+        "date_general": "Erzincan dönemi, Erzincan'a geldiğinin ikinci kışı",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.48797,
+          39.72409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "154",
+        "name": "Mehmed Vehbi Hayyat Efendi'nin damadı Abdussamed Efendi'nin Erzincan şehir içinde cami-i kebir civarındaki hanesi",
+        "type": "hane",
+        "who": "Aşçı Dede",
+        "date_general": "Erzincan dönemi, Erzincan'a geldiğinin ikinci kışı",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.48797,
+          39.72409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "154",
+        "name": "Mehmed Vehbi Hayyat Efendi'nin damadı Abdussamed Efendi'nin Erzincan şehir içinde cami-i kebir civarındaki hanesi",
+        "type": "hane",
+        "who": "Aşçı Dede",
+        "date_general": "Erzincan dönemi, Erzincan'a geldiğinin ikinci kışı",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.48797,
+          39.72409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "152",
+        "name": "Şeyh Fehmi Efendi'nin cami-i kebirin hemen ittisali gibi kırk elli adım mesafedeki hanesi",
+        "type": "hane",
+        "who": "Şeyh Fehmi Efendi",
+        "date_general": "Erzincan dönemi, Erzincan'a geldiğinin ikinci kışı",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.48775,
+          39.72338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "154",
+        "name": "Mehmed Vehbi Hayyat Efendi'nin damadı Abdussamed Efendi'nin Erzincan şehir içinde cami-i kebir civarındaki hanesi",
+        "type": "hane",
+        "who": "Şeyh Fehmi Efendi",
+        "date_general": "Erzincan dönemi, Erzincan'a geldiğinin ikinci kışı",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.48797,
+          39.72409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "154",
+        "name": "Mehmed Vehbi Hayyat Efendi'nin damadı Abdussamed Efendi'nin Erzincan şehir içinde cami-i kebir civarındaki hanesi",
+        "type": "hane",
+        "who": "",
+        "date_general": "Erzincan dönemi, Erzincan'a geldiğinin ikinci kışı",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.48797,
+          39.72409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "151",
+        "name": "Erzincan cami-i kebiri",
+        "type": "cami",
+        "who": "Aşçı Dede",
+        "date_general": "Erzincan dönemi, Erzincan'a geldiğinin ikinci kışı",
+        "date": "",
+        "text": "Camide namaz vaktine kadar rabıtada dururum. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.48879,
+          39.72343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "162",
+        "name": "Şeyh Fehmi Efendi'nin Vaskirt'te bahçe konağı",
+        "type": "bahçe konak/hangah",
+        "who": "Aşçı Dede",
+        "date_general": "Erzincan dönemi, Erzincan'a geldiğinin ikinci kışı",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.46486,
+          39.79098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "154",
+        "name": "Mehmed Vehbi Hayyat Efendi'nin damadı Abdussamed Efendi'nin Erzincan şehir içinde cami-i kebir civarındaki hanesi",
+        "type": "hane",
+        "who": "Aşçı Dede",
+        "date_general": "Erzincan dönemi, Erzincan'a geldiğinin ikinci kışı",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.48797,
+          39.72409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "162",
+        "name": "Şeyh Fehmi Efendi'nin Vaskirt'te bahçe konağı",
+        "type": "bahçe konak/hangah",
+        "who": "Aşçı Dede",
+        "date_general": "Erzincan dönemi, Erzincan'a geldiğinin ikinci kışı",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.46486,
+          39.79098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "147",
+        "name": "Şeyh Vehbî Hayyât'ın Erzincan'a girer iken mezarlığın kenarındaki türbesi",
+        "type": "türbe",
+        "who": "Aşçı Dede",
+        "date_general": "Erzincan dönemi, Erzincan'a geldiğinin ikinci kışı",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.49774,
+          39.71643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001",
+        "name": "Dersaadet",
+        "type": "şehir",
+        "who": "Şeyh Fehmi Efendi'nin bahçe işlerine bakan Tokatlı Hacı Hasan Efendi",
+        "date_general": "Erzincan dönemi, evvel bahar",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.951,
+          41.01408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1008",
+        "name": "Erzincan",
+        "type": "şehir",
+        "who": "haremi Hamide Hanım ve oğlu Hüsameddin Çelebi",
+        "date_general": "Erzincan dönemi",
+        "date": "15 Nisan-14 Mayıs 1858",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.4927,
+          39.74876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1008",
+        "name": "Erzincan",
+        "type": "şehir",
+        "who": "pederi Mehmed Ali Ağa",
+        "date_general": "mevsim-i sayf",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.4927,
+          39.74876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "171",
+        "name": "Vaskirt'te Şeyh Fehmi Efendi'nin bahçe konağının ittisalinde Tekbastı Şerif Efendi'nin bahçesi",
+        "type": "bahçe hane",
+        "who": "Aşçı Dede",
+        "date_general": "bahar-yaz mevsimleri",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.46453,
+          39.7909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "169",
+        "name": "Abdussamed Efendi'nin Sarıgöl'deki bahçesi",
+        "type": "bahçe hane",
+        "who": "Aşçı Dede",
+        "date_general": "Erzincan dönemi",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.44573,
+          39.76771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "162",
+        "name": "Şeyh Fehmi Efendi'nin Vaskirt'te bahçe konağı",
+        "type": "bahçe konak/hangah",
+        "who": "Erzincan'ın Hıristiyan taifesinin büyükleri",
+        "date_general": "",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.46486,
+          39.79098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "155",
+        "name": "Şeyh Fehmi Efendi’nin damadı Tahir Efendi’nin Erzincan şehir içinde cami-i kebir ittisalindeki konağı",
+        "type": "konak",
+        "who": "Aşçı Dede",
+        "date_general": "kış mevsimi",
+        "date": "1858",
+        "text": "Gelelim bahsimize. O kış ki yetmiş beş [1858] senesi idi, pederim ve haremim şehre nakil olunacağından evvelce ismi zikrolunan hazret-i şeyh efendimizin damadı Tahir Efendi’nin şehirde Câmi ’-i kebîr ittisalinde olan konağına nakil olunmaklığı hazret emr ü ferman buyurdular. O kış oraya nakil ettim. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.48955,
+          39.72341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "155",
+        "name": "Şeyh Fehmi Efendi’nin damadı Tahir Efendi’nin Erzincan şehir içinde cami-i kebir ittisalindeki konağı",
+        "type": "konak",
+        "who": "Aşçı Dede",
+        "date_general": "",
+        "date": "1858",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.48955,
+          39.72341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "155",
+        "name": "Şeyh Fehmi Efendi’nin damadı Tahir Efendi’nin Erzincan şehir içinde cami-i kebir ittisalindeki konağı",
+        "type": "konak",
+        "who": "Aşçı Dede",
+        "date_general": "",
+        "date": "20 Ekim 1858",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.48955,
+          39.72341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "170",
+        "name": "muhasebeci efendinin Sarıgöl'de bahçe konağı",
+        "type": "bahçe konak",
+        "who": "Aşçı Dede",
+        "date_general": "",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.4446,
+          39.76752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "171",
+        "name": "Vaskirt'te Şeyh Fehmi Efendi'nin bahçe konağının ittisalinde Tekbastı Şerif Efendi'nin bahçesi",
+        "type": "bahçe hane",
+        "who": "Aşçı Dede",
+        "date_general": "Erzincan dönemi, evvel bahar",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.46453,
+          39.7909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "171",
+        "name": "Vaskirt'te Şeyh Fehmi Efendi'nin bahçe konağının ittisalinde Tekbastı Şerif Efendi'nin bahçesi",
+        "type": "bahçe hane",
+        "who": "Aşçı Dede",
+        "date_general": "Erzincan dönemi",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.46453,
+          39.7909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1005",
+        "name": "Trabzon",
+        "type": "şehir",
+        "who": "Aşçı Dede",
+        "date_general": "oğlu Salih doğduktan sonrası, Erzincan'dan İstanbul'a ilk gidiş",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.72044,
+          41.00242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1008",
+        "name": "Erzincan",
+        "type": "şehir",
+        "who": "Aşçı Dede",
+        "date_general": "45 gün İstanbul'da kaldıktan sonra Erzincan'a dönüş",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.4927,
+          39.74876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2002",
+        "name": "Cimin karyesi [Üzümlü bucağına bağlı bir köy, yeni ismi Üzümlü]",
+        "type": "karye",
+        "who": "Aşçı Dede",
+        "date_general": "İstanbul'dan Erzincan'a dönüş sonrası",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.70231,
+          39.70912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "159",
+        "name": "Erzincan şehir içinde Araplar Mahallesi’nde Şeyh Fehmi Efendi’nin taallukatından Hafız Efendi’nin konağı ",
+        "type": "konak",
+        "who": "Aşçı Dede",
+        "date_general": "İstanbul'dan Erzincan'a dönüş sonrası, köhne bahar-kış mevsimleri",
+        "date": "",
+        "text": "O sene fakir şehirde Araplar Mahallesi’nde Hazret-i Mürşid-i Ekrem efen dimizin ta’allukât-ı devletlerinden Ubeydullah Efendizade Hafız Efendi hazretlerinin konaklarında ikamet eder idim. Çünkü fakir, validemi alıp İstanbul’dan Erzincan’a avdetim köhne bahar idi. Evvelce arz olunduğu üzere o yaz bahçede Tekbastı Şerif Efendi’nin bahçesinde ikamet olunduğundan vaktaki şehre nakil olunmak lâzım geldi, bu defa evvelce ikamet olunan Beyzade Hacı İbrahim Efendi’nin konağından sarf-ı nazarla yine ta’allukât-ı mürşidânelerinden Hafız Efendi hazretleri ki pek büyüklerden ve mazinneden idi, Araplar Mahallesinde olan konaklarında ikame olunmasına efendimiz tarafından irade buyurulmakla, orada ikamet olunmuş idi. Mezkûr konak ise, şehrin bir kenarında Hazret-i Pîr Hayyât kuddise sırruhu’l-azîz efendimiz hazretlerinin türbe-i sa’âdetlerine o kadar yakın idi ki nida olunsa türbe-i şeriften işitilir idi. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.49603,
+          39.72085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "158",
+        "name": "Erzincan şehir içinde Araplar Mahallesi’nde Şeyh Fehmi Efendi’nin taallukatından Hafız Efendi’nin konağı karşısındaki cami",
+        "type": "cami",
+        "who": "Şeyh Fehmi Efendi ve cümle ihvan",
+        "date_general": "İstanbul'dan Erzincan'a dönüş sonrası, köhne bahar-kış mevsimleri",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.49651,
+          39.72084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "151",
+        "name": "Erzincan cami-i kebiri",
+        "type": "cami",
+        "who": "ahali-i belde, gayrimüslimler bile dahil",
+        "date_general": "İstanbul'dan Erzincan'a dönüş sonrası, köhne bahar-kış mevsimleri",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.48879,
+          39.72343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1007",
+        "name": "Erzurum",
+        "type": "şehir",
+        "who": "Aşçı Dede",
+        "date_general": "Erzincan'dan Erzurum'a nakl",
+        "date": "Aralık 1861",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.27486,
+          39.90743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "303",
+        "name": "Erzurum'da Erzincan Kapısı'nda Abdi Ağa'nın konağı",
+        "type": "konak",
+        "who": "Aşçı Dede",
+        "date_general": "Erzincan'dan Erzurum'a nakl",
+        "date": "Aralık 1861",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.27114,
+          39.90557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "303",
+        "name": "Erzurum'da Erzincan Kapısı'nda Abdi Ağa'nın konağı",
+        "type": "konak",
+        "who": "Kadiriyeden Tokadi Şeyh İsmail Sırrı Efendi",
+        "date_general": "Erzincan'dan Erzurum'a nakl sonrası, bir üstteki günün ertesi günü",
+        "date": "Aralık 1861",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.27114,
+          39.90557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "304",
+        "name": "Erzurum Sığırcık nam mahalde konak",
+        "type": "konak ",
+        "who": "Aşçı Dede",
+        "date_general": "Erzincan'dan Erzurum'a nakl sonrası",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.28145,
+          39.90552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "305",
+        "name": "Tokadi Şeyh İsmail Sırrı Efendi'nin Gavurboğan Mahallesi'ndeki tekkesi",
+        "type": "tekke",
+        "who": "Aşçı Dede",
+        "date_general": "Erzincan'dan Erzurum'a nakl sonrası",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.28179,
+          39.90124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "305",
+        "name": "Tokadi Şeyh İsmail Sırrı Efendi'nin Gavurboğan Mahallesi'ndeki tekkesi",
+        "type": "tekke",
+        "who": "Aşçı Dede",
+        "date_general": "Erzincan'dan Erzurum'a nakl sonrası",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.28179,
+          39.90124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "305",
+        "name": "Tokadi Şeyh İsmail Sırrı Efendi'nin Gavurboğan Mahallesi'ndeki tekkesi",
+        "type": "tekke",
+        "who": "aklam efendileri, ümera ve zabitan-ı askeriyye",
+        "date_general": "Erzincan'dan Erzurum'a nakl sonrası, Cuma günleri",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.28179,
+          39.90124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "306",
+        "name": "Tokadi Şeyh İsmail Sırrı Efendi'nin Gavurboğan Mahallesi'ndeki tekkesi kurbunda Alay Katibi Arapgirli Mehmed Efendi'nin hanesi",
+        "type": "hane",
+        "who": "Aşçı Dede",
+        "date_general": "Erzincan'dan Erzurum'a nakl sonrası",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.28165,
+          39.90144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001",
+        "name": "Dersaadet",
+        "type": "şehir",
+        "who": "pederi Mehmed Ali Ağa",
+        "date_general": "Erzincan'dan Erzurum'a nakl sonrası",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.951,
+          41.01408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "315",
+        "name": "Erzurum'da cami-i kebire muttasıl sokak içinde kümbetli bir konak",
+        "type": "konak",
+        "who": "Aşçı Dede",
+        "date_general": "Erzincan'dan Erzurum'a nakl sonrası",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.27693,
+          39.90635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "307",
+        "name": "Kırklar Makamı",
+        "type": "",
+        "who": "Aşçı Dede",
+        "date_general": "Erzincan'dan Erzurum'a nakl sonrası",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.27662,
+          39.90737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "315",
+        "name": "Erzurum'da cami-i kebire muttasıl sokak içinde kümbetli bir konak",
+        "type": "konak",
+        "who": "Aşçı Dede",
+        "date_general": "Erzincan'dan Erzurum'a nakl sonrası",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.27693,
+          39.90635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "305",
+        "name": "Tokadi Şeyh İsmail Sırrı Efendi'nin Gavurboğan Mahallesi'ndeki tekkesi",
+        "type": "tekke",
+        "who": "Aşçı Dede",
+        "date_general": "Erzincan'dan Erzurum'a nakl sonrası",
+        "date": "3-31 Mart 1862 sonrası",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.28179,
+          39.90124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "312",
+        "name": "Erzurum müftüsü Ömer Efendi'nin Erzurum Oltu kazasındaki konağı",
+        "type": "konak",
+        "who": "Mehmed Vehbi Hayyat Efendi'nin damadı Abdussamed Efendi",
+        "date_general": "Erzincan'dan Erzurum'a nakl sonrası",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.99457,
+          40.54564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "312",
+        "name": "Erzurum müftüsü Ömer Efendi'nin Erzurum Oltu kazasındaki konağı",
+        "type": "konak",
+        "who": "Aşçı Dede",
+        "date_general": "Erzincan'dan Erzurum'a nakl sonrası",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.99457,
+          40.54564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "305",
+        "name": "Tokadi Şeyh İsmail Sırrı Efendi'nin Gavurboğan Mahallesi'ndeki tekkesi",
+        "type": "tekke",
+        "who": "Aşçı Dede",
+        "date_general": "Erzincan'dan Erzurum'a nakl sonrası, evvel bahar, Cuma günü",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.28179,
+          39.90124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "305",
+        "name": "Tokadi Şeyh İsmail Sırrı Efendi'nin Gavurboğan Mahallesi'ndeki tekkesinin üst tarafında olan çimenler",
+        "type": "çimenlik",
+        "who": "Aşçı Dede",
+        "date_general": "Erzincan'dan Erzurum'a nakl sonrası, evvel bahar, bir üsttekinin ertesi Cuma günü",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.28179,
+          39.90124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "308",
+        "name": "Aziz Efendi'nin Habibefendi Mahallesi'ndeki hanesinin karşısında bir konak",
+        "type": "konak",
+        "who": "Aşçı Dede",
+        "date_general": "Erzincan'dan Erzurum'a nakl sonrası, Aziz Efendi'ye aşık olduğu dönem",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.28319,
+          39.9066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001",
+        "name": "Dersaadet",
+        "type": "şehir",
+        "who": "validesi Behiye Hanım",
+        "date_general": "Erzincan'dan Erzurum'a nakl sonrası, Aziz Efendi'ye aşık olduğu dönem",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.951,
+          41.01408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "308",
+        "name": "Aziz Efendi'nin Habibefendi Mahallesi'ndeki hanesinin karşısında bir konak",
+        "type": "konak",
+        "who": "Aziz Efendi ve pederi Abdülhamid Ağa",
+        "date_general": "Erzincan'dan Erzurum'a nakl sonrası, Aziz Efendi'ye aşık olduğu dönem",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.28319,
+          39.9066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "309",
+        "name": "çarşı [belirsiz]",
+        "type": "çarşı",
+        "who": "Aşçı Dede",
+        "date_general": "Erzincan'dan Erzurum'a nakl sonrası, Aziz Efendi'ye aşık olduğu dönem",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.27333,
+          39.90866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "308",
+        "name": "Aziz Efendi'nin Habibefendi Mahallesi'ndeki hanesinin karşısında bir konak",
+        "type": "konak",
+        "who": "Hacı Mustafa Baba",
+        "date_general": "Erzincan'dan Erzurum'a nakl sonrası, Aziz Efendi'ye aşık olduğu dönem",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.28319,
+          39.9066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "310",
+        "name": "Narmanlı Camii",
+        "type": "cami",
+        "who": "Aşçı Dede",
+        "date_general": "Erzincan'dan Erzurum'a nakl sonrası, Aziz Efendi'ye aşık olduğu dönem, Ramazan ayı, kış mevsimi",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.27992,
+          39.90594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "308",
+        "name": "Aziz Efendi'nin Habibefendi Mahallesi'ndeki hanesinin karşısında bir konak",
+        "type": "",
+        "who": "Medine'den bir zat",
+        "date_general": "Erzincan'dan Erzurum'a nakl sonrası, Aziz Efendi'ye aşık olduğu dönem, Ramazan ayı, kış mevsimi, Leyle-i Kadr",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.28319,
+          39.9066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "310",
+        "name": "Narmanlı Camii",
+        "type": "cami",
+        "who": "Aşçı Dede",
+        "date_general": "Erzincan'dan Erzurum'a nakl sonrası, Aziz Efendi'ye aşık olduğu dönem, Ramazan ayı, kış mevsimi, Leyle-i Kadr",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.27992,
+          39.90594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1007",
+        "name": "Erzurum",
+        "type": "şehir",
+        "who": "pederi Mehmed Ali Ağa",
+        "date_general": "Erzincan'dan Erzurum'a nakl sonrası, Aziz Efendi'ye aşık olduğu dönem",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.27486,
+          39.90743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "311",
+        "name": "Gürcükapısı, Erzurum",
+        "type": "semt",
+        "who": "Aşçı Dede",
+        "date_general": "Erzurum'dan Erzincan'a dönüş",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.27411,
+          39.91075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "313",
+        "name": "Ilıca Köyü (Erzurum'a üç saat mesafede)",
+        "type": "köy",
+        "who": "Aşçı Dede",
+        "date_general": "Erzurum'dan Erzincan'a dönüş",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.10604,
+          39.94667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "157",
+        "name": "Erzincan Cami-i Kebir karşısında büyük bir konak",
+        "type": "konak",
+        "who": "Aşçı Dede",
+        "date_general": "Erzurum'dan Erzincan'a varış",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.48882,
+          39.72309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "162",
+        "name": "Şeyh Fehmi Efendi'nin Vaskirt'te bahçe konağı",
+        "type": "bahçe konak/hangah",
+        "who": "Aşçı Dede",
+        "date_general": "ikinci Erzincan dönemi",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.46486,
+          39.79098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "169",
+        "name": "Mehmed Vehbi Hayyat'ın damadı Abdussamed Efendi'nin Sarıgöl'deki hanesi",
+        "type": "bahçe hane",
+        "who": "Aşçı Dede",
+        "date_general": "ikinci Erzincan dönemi, bir üstteki ile aynı gün",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.44573,
+          39.76771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "159",
+        "name": "Erzincan şehir içinde Araplar Mahallesi’nde Şeyh Fehmi Efendi’nin taallukatından Hafız Efendi’nin konağı ",
+        "type": "konak",
+        "who": "Aşçı Dede",
+        "date_general": "ikinci Erzincan dönemi",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.49603,
+          39.72085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "159",
+        "name": "Erzincan şehir içinde Araplar Mahallesi’nde Şeyh Fehmi Efendi’nin taallukatından Hafız Efendi’nin konağı ",
+        "type": "konak",
+        "who": "Şeyh Fehmi Efendi",
+        "date_general": "ikinci Erzincan dönemi",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.49603,
+          39.72085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1007",
+        "name": "Erzurum",
+        "type": "şehir",
+        "who": "Aziz Efendi",
+        "date_general": "ikinci Erzincan dönemi, köhne bahar",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.27486,
+          39.90743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "159",
+        "name": "Erzincan şehir içinde Araplar Mahallesi’nde Şeyh Fehmi Efendi’nin taallukatından Hafız Efendi’nin konağı ",
+        "type": "konak",
+        "who": "Şeyh Fehmi Efendi",
+        "date_general": "ikinci Erzincan dönemi, evvel bahar",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.49603,
+          39.72085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2002",
+        "name": "Cimin karyesi [Üzümlü bucağına bağlı bir köy, yeni ismi Üzümlü]",
+        "type": "karye",
+        "who": "Aşçı Dede",
+        "date_general": "ikinci Erzincan dönemi, evvel bahar, bir üstteki günün akşamı",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.70231,
+          39.70912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "159",
+        "name": "Erzincan şehir içinde Araplar Mahallesi’nde Şeyh Fehmi Efendi’nin taallukatından Hafız Efendi’nin konağı ",
+        "type": "konak",
+        "who": "Şeyh Fehmi Efendi",
+        "date_general": "ikinci Erzincan dönemi",
+        "date": "13 Mart-12 Nisan 1865",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.49603,
+          39.72085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "159",
+        "name": "Erzincan şehir içinde Araplar Mahallesi’nde Şeyh Fehmi Efendi’nin taallukatından Hafız Efendi’nin konağı ",
+        "type": "konak",
+        "who": "Aşçı Dede",
+        "date_general": "ikinci Erzincan dönemi",
+        "date": "13 Mart-12 Nisan 1865",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.49603,
+          39.72085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "153",
+        "name": "Mehmed Vehbi Hayyat Efendi'nin türbesinin olduğu kabristan",
+        "type": "kabristan",
+        "who": "Aşçı Dede",
+        "date_general": "ikinci Erzincan dönemi, bir üsttekinin ertesi günü",
+        "date": "13 Mart-12 Nisan 1865",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.49718,
+          39.71718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "158",
+        "name": "Erzincan şehir içinde Araplar Mahallesi’nde Şeyh Fehmi Efendi’nin taallukatından Hafız Efendi’nin konağının ittisalindeki cami odası",
+        "type": "cami odası",
+        "who": "Aşçı Dede",
+        "date_general": "ikinci Erzincan dönemi, bir üstteki ile aynı gün",
+        "date": "13 Mart-12 Nisan 1865",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.49651,
+          39.72084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001",
+        "name": "Dersaadet",
+        "type": "şehir",
+        "who": "Derviş Paşa",
+        "date_general": "ikinci Erzincan dönemi",
+        "date": "1865",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.951,
+          41.01408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001",
+        "name": "Dersaadet",
+        "type": "şehir",
+        "who": "pederi Mehmed Ali Ağa ve üvey validesi",
+        "date_general": "ikinci Erzincan dönemi",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.951,
+          41.01408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "174",
+        "name": "Mehmed Vehbi Hayyat Efendi'nin türbesinin civarında yeni inşa olunan dergah",
+        "type": "dergah",
+        "who": "Aşçı Dede",
+        "date_general": "ikinci Erzincan dönemi, yaz mevsimi",
+        "date": "1865",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.49946,
+          39.71703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001",
+        "name": "Dersaadet",
+        "type": "şehir",
+        "who": "Şeyh Fehmi Efendi ve Derviş Paşa",
+        "date_general": "ikinci Erzincan dönemi",
+        "date": "21 Kasım-18 Aralık 1865",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.951,
+          41.01408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "159",
+        "name": "Erzincan şehir içinde Araplar Mahallesi’nde Şeyh Fehmi Efendi’nin taallukatından Hafız Efendi’nin konağı",
+        "type": "konak",
+        "who": "Aşçı Dede",
+        "date_general": "ikinci Erzincan dönemi",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.49603,
+          39.72085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "163",
+        "name": "Vaskirt'te Aşçı Dede'nin icar ettiği Tekbastı Mustafa Efendi'nin bahçe hanesi",
+        "type": "bahçe hane",
+        "who": "Aşçı Dede",
+        "date_general": "ikinci Erzincan dönemi",
+        "date": "Mart 1866",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.46394,
+          39.7907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1008",
+        "name": "Erzincan",
+        "type": "şehir",
+        "who": "Aşçı Dede'nin daha önce aşık olduğu Osman Bey",
+        "date_general": "ikinci Erzincan dönemi",
+        "date": "1866",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.4927,
+          39.74876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "147",
+        "name": "Mehmed Vehbi Hayyat'ın türbesi",
+        "type": "türbe",
+        "who": "Aşçı Dede",
+        "date_general": "ikinci Erzincan dönemi",
+        "date": "1866",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.49774,
+          39.71643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001",
+        "name": "Dersaadet",
+        "type": "şehir",
+        "who": "Aşçı Dede'nin daha önce aşık olduğu Osman Bey",
+        "date_general": "ikinci Erzincan dönemi",
+        "date": "1866",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.951,
+          41.01408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1002",
+        "name": "Şam",
+        "type": "şehir",
+        "who": "Şeyh Fehmi Efendi ve Derviş Paşa",
+        "date_general": "ikinci Erzincan dönemi",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.30117,
+          33.51154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001",
+        "name": "Dersaadet",
+        "type": "şehir",
+        "who": "Şeyh Fehmi Efendi",
+        "date_general": "ikinci Erzincan dönemi",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.951,
+          41.01408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1008",
+        "name": "Erzincan",
+        "type": "şehir",
+        "who": "Şeyh Fehmi Efendi",
+        "date_general": "ikinci Erzincan dönemi",
+        "date": "Nisan-Mayıs 1867",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.4927,
+          39.74876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "167",
+        "name": "Vaskirt Kışla-yı Hümayun'u karşısındaki bahçe",
+        "type": "bahçe",
+        "who": "Aşçı Dede",
+        "date_general": "ikinci Erzincan dönemi",
+        "date": "Nisan-Mayıs 1867",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.47575,
+          39.76042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "147",
+        "name": "Mehmed Vehbi Hayyat Efendi'nin türbesi",
+        "type": "türbe",
+        "who": "Şeyh Fehmi Efendi, hulefa ve ihvan",
+        "date_general": "ikinci Erzincan dönemi, bir üstteki ile aynı gün",
+        "date": "Nisan-Mayıs 1867",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.49774,
+          39.71643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "174",
+        "name": "Mehmed Vehbi Hayyat Efendi'nin türbesi yakınında yeni yapılan dergah",
+        "type": "dergah",
+        "who": "Şeyh Fehmi Efendi ve ihvan",
+        "date_general": "ikinci Erzincan dönemi, bir üstteki ile aynı gün",
+        "date": "Nisan-Mayıs 1867",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.49946,
+          39.71703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "162",
+        "name": "Şeyh Fehmi Efendi'nin Vaskirt'te bahçe konağı",
+        "type": "bahçe konak/hangah",
+        "who": "Şeyh Fehmi Efendi",
+        "date_general": "ikinci Erzincan dönemi, bir üstteki ile aynı gün",
+        "date": "Nisan-Mayıs 1867",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.46486,
+          39.79098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "174",
+        "name": "Mehmed Vehbi Hayyat Efendi'nin türbesi yakınında yeni yapılan dergah",
+        "type": "dergah",
+        "who": "ulema, hulefa-yı kiram, vücuh-ı belde, memurin-i askeriye ve mülkiye",
+        "date_general": "ikinci Erzincan dönemi: yeni dergahın küşadından bir gün öncesi",
+        "date": "13 Temmuz 1867",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.49946,
+          39.71703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "174",
+        "name": "Mehmed Vehbi Hayyat Efendi'nin türbesi yakınında yeni yapılan dergah",
+        "type": "dergah",
+        "who": "Aşçı Dede",
+        "date_general": "ikinci Erzincan dönemi: yeni dergahın küşadı sonrası, kış mevsimi, Cuma günleri",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.49946,
+          39.71703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "151",
+        "name": "Cami-i Kebir",
+        "type": "cami",
+        "who": "Aşçı Dede",
+        "date_general": "ikinci Erzincan dönemi: yeni dergahın küşadı sonrası, kış mevsimi, sabahları",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.48879,
+          39.72343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "174",
+        "name": "Mehmed Vehbi Hayyat Efendi'nin türbesi yakınında yeni yapılan dergahın yanındaki caminin kapısı önü",
+        "type": "dergah/cami",
+        "who": "Aşçı Dede",
+        "date_general": "ikinci Erzincan dönemi: yeni dergahın küşadı sonrası, leyle-i Mirac günü",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.49946,
+          39.71703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "174",
+        "name": "Mehmed Vehbi Hayyat Efendi'nin türbesi yakınında yeni yapılan dergah ve cami",
+        "type": "dergah/cami",
+        "who": "Aşçı Dede",
+        "date_general": "ikinci Erzincan dönemi: yeni dergahın küşadı sonrası, leyle-i Mirac, bir üstteki ile aynı gün, iftar sonrası",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.49946,
+          39.71703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "174",
+        "name": "Mehmed Vehbi Hayyat Efendi'nin türbesi yakınında yeni yapılan dergah ve cami",
+        "type": "dergah/cami",
+        "who": "Aşçı Dede",
+        "date_general": "ikinci Erzincan dönemi: yeni dergahın küşadı sonrası",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.49946,
+          39.71703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "174",
+        "name": "Mehmed Vehbi Hayyat Efendi'nin türbesi yakınında yeni yapılan dergahın yanındaki cami",
+        "type": "cami",
+        "who": "Şeyh Fehmi Efendi",
+        "date_general": "ikinci Erzincan dönemi: yeni dergahın küşadı sonrası",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.49946,
+          39.71703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1008",
+        "name": "Erzincan",
+        "type": "şehir",
+        "who": "Dağıstan ulemasından Amasya tarafında mehdilik iddiasında bulunan bir zat",
+        "date_general": "ikinci Erzincan dönemi: yeni dergahın küşadı sonrası",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.4927,
+          39.74876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "174",
+        "name": "Mehmed Vehbi Hayyat Efendi'nin türbesi yakınında yeni yapılan dergahın camisi",
+        "type": "cami",
+        "who": "Aşçı Dede",
+        "date_general": "ikinci Erzincan dönemi: yeni dergahın küşadı sonrası",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.49946,
+          39.71703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1008",
+        "name": "Erzincan",
+        "type": "şehir",
+        "who": "Derviş Paşa",
+        "date_general": "ikinci Erzincan dönemi: yeni dergahın küşadı sonrası",
+        "date": "1868",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.4927,
+          39.74876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "174",
+        "name": "Mehmed Vehbi Hayyat Efendi'nin türbesi ve civarında yeni yapılan dergah/cami",
+        "type": "türbe, dergah",
+        "who": "Derviş Paşa",
+        "date_general": "ikinci Erzincan dönemi: yeni dergahın küşadı sonrası",
+        "date": "1868",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.49946,
+          39.71703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "174",
+        "name": "Mehmed Vehbi Hayyat Efendi'nin türbesi ve civarında yeni yapılan dergah/cami",
+        "type": "dergah/cami",
+        "who": "Mehmed Vehbi Hayyat Efendi'nin damadı Abdussamed Efendi",
+        "date_general": "ikinci Erzincan dönemi: yeni dergahın küşadı sonrası",
+        "date": "1868",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.49946,
+          39.71703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "151",
+        "name": "Erzincan cami-i kebiri",
+        "type": "cami",
+        "who": "Aşçı Dede",
+        "date_general": "ikinci Erzincan dönemi: yeni dergahın küşadının ikinci senesinin kışı",
+        "date": "16 Aralık-4 Ocak 1869",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.48879,
+          39.72343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "158",
+        "name": "Araplar Mahallesi'nde olan mescit",
+        "type": "mescit",
+        "who": "Aşçı Dede",
+        "date_general": "ikinci Erzincan dönemi: yeni dergahın küşadının ikinci senesinin kışı",
+        "date": "17 Aralık-4 Ocak 1869",
+        "text": "O ramazân-ı şerîfte Araplar Mahallesi’nde olan mescitte Hazret-i Ulemâ-billâh efendimiz mehâdim-i reşâdetleriyle beraber ve fakir ve Ahmed Efendi mu’tekif olduk. Kemâ fi’s-sâbık iradeleri veçhile geceleri kaleme gidip oradan doğruca Câmi’-i şerîfe gelir idim."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.49651,
+          39.72084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "158",
+        "name": "Araplar Mahallesi'nde olan mescit",
+        "type": "mescit",
+        "who": "Aşçı Dede",
+        "date_general": "ikinci Erzincan dönemi: yeni dergahın küşadının ikinci senesinin kışı",
+        "date": "18 Aralık-4 Ocak 1869",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.49651,
+          39.72084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "174",
+        "name": "Mehmed Vehbi Hayyat Efendi'nin türbesi ve civarında yeni yapılan dergah/cami",
+        "type": "dergah/cami",
+        "who": "Aşçı Dede",
+        "date_general": "ikinci Erzincan dönemi, Ramazan sonrası",
+        "date": "1869",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.49946,
+          39.71703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "162",
+        "name": "Şeyh Fehmi Efendi'nin Vaskirt'te bahçe konağı",
+        "type": "bahçe konak/dergah",
+        "who": "Şeyh Fehmi Efendi",
+        "date_general": "ikinci Erzincan dönemi, evvel bahar",
+        "date": "1869",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.46486,
+          39.79098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "165",
+        "name": "Şeyh Fehmi Efendi'nin Vaskirt'te bahçe konağına karib Kerim Paşa'nın bahçesi",
+        "type": "bahçe hane",
+        "who": "Derviş Paşa",
+        "date_general": "ikinci Erzincan dönemi, evvel bahar",
+        "date": "1869",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.46508,
+          39.79017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "162",
+        "name": "Şeyh Fehmi Efendi'nin Vaskirt'te bahçe konağı",
+        "type": "bahçe konak/dergah",
+        "who": "Aşçı Dede",
+        "date_general": "ikinci Erzincan dönemi",
+        "date": "1869",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.46486,
+          39.79098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "151",
+        "name": "Erzincan cami-i kebiri",
+        "type": "cami",
+        "who": "Aşçı Dede",
+        "date_general": "ikinci Erzincan dönemi, Cuma günü",
+        "date": "1869",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.48879,
+          39.72343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "162",
+        "name": "Şeyh Fehmi Efendi'nin Vaskirt'te bahçe konağı",
+        "type": "bahçe konak/dergah",
+        "who": "Aşçı Dede",
+        "date_general": "ikinci Erzincan dönemi, bir üstteki günün ertesi, Cumartesi",
+        "date": "1869",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.46486,
+          39.79098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "151",
+        "name": "Erzincan cami-i kebiri",
+        "type": "cami",
+        "who": "Hacı Sıddık Efendi Hoca",
+        "date_general": "ikinci Erzincan dönemi",
+        "date": "1869",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.48879,
+          39.72343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "151",
+        "name": "Erzincan cami-i kebiri",
+        "type": "cami",
+        "who": "Şeyh Fehmi Efendi",
+        "date_general": "ikinci Erzincan dönemi",
+        "date": "1869",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.48879,
+          39.72343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "151",
+        "name": "Erzincan cami-i kebiri",
+        "type": "cami",
+        "who": "Aşçı Dede",
+        "date_general": "ikinci Erzincan dönemi",
+        "date": "1869",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.48879,
+          39.72343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "151",
+        "name": "Erzincan cami-i kebiri",
+        "type": "cami",
+        "who": "Aşçı Dede",
+        "date_general": "ikinci Erzincan dönemi",
+        "date": "1869",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.48879,
+          39.72343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "174",
+        "name": "Mehmed Vehbi Hayyat Efendi'nin türbesi yakınında yeni yapılan dergah",
+        "type": "dergah",
+        "who": "Aşçı Dede",
+        "date_general": "ikinci Erzincan dönemi",
+        "date": "4-31 Aralık 1869",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.49946,
+          39.71703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "174",
+        "name": "Mehmed Vehbi Hayyat Efendi'nin türbesi yakınında yeni yapılan dergah",
+        "type": "dergah",
+        "who": "Aşçı Dede",
+        "date_general": "Erzurum'a hareket günü sabah",
+        "date": "24 Ocak 1870",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.49946,
+          39.71703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "222",
+        "name": "Yeniköy",
+        "type": "köy",
+        "who": "Aşçı Dede",
+        "date_general": "Erzurum'a gidiş, yolda",
+        "date": "1870",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.69629,
+          39.85494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "222",
+        "name": "Yeniköy'de kaldıkları hane",
+        "type": "hane",
+        "who": "Aşçı Dede",
+        "date_general": "Erzurum'a gidiş, yolda",
+        "date": "1870",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.69629,
+          39.85494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "222",
+        "name": "Yeniköy civarları",
+        "type": "",
+        "who": "Aşçı Dede",
+        "date_general": "Erzurum'a gidiş, yolda",
+        "date": "1870",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.69629,
+          39.85494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "313",
+        "name": "Ilıca, Erzurum ovası, yol üzerinde olan bir köy",
+        "type": "",
+        "who": "Aşçı Dede",
+        "date_general": "Erzurum'a gidiş, yolda",
+        "date": "1870",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.10604,
+          39.94667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "314",
+        "name": "Erzincan Kapısı'nda meşhur Çavuşoğullarının hanesi (haric-i sur)",
+        "type": "hane",
+        "who": "Aşçı Dede",
+        "date_general": "üçüncü Erzurum dönemi, evvel bahar",
+        "date": "1870",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.27065,
+          39.90545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "314",
+        "name": "Erzincan Kapısı'nda meşhur Çavuşoğullarının hanesi (haric-i sur)",
+        "type": "hane",
+        "who": "haremi Hatice Hanım ve oğlu Salih Efendi",
+        "date_general": "üçüncü Erzurum dönemi",
+        "date": "1870",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.27065,
+          39.90545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "314",
+        "name": "Erzincan Kapısı'nda meşhur Çavuşoğullarının hanesi (haric-i sur)",
+        "type": "hane",
+        "who": "Aşçı Dede",
+        "date_general": "üçüncü Erzurum dönemi",
+        "date": "1870",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.27065,
+          39.90545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001",
+        "name": "Dersaadet",
+        "type": "şehir",
+        "who": "haremi Hatice Hanım ve oğulları Hüsameddin ve Salih",
+        "date_general": "üçüncü Erzurum dönemi",
+        "date": "18 Temmuz-19 Haziran 1871",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.951,
+          41.01408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2002",
+        "name": "Cimin karyesi [Üzümlü bucağına bağlı bir köy, yeni ismi Üzümlü]",
+        "type": "karye",
+        "who": "Aşçı Dede",
+        "date_general": "İstanbul'a geçmek üzere Erzincan'a gidiş [yola 22 Recep 1288/6 Ekim 1871'de çıkıyor]",
+        "date": "Ekim 1871",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.70231,
+          39.70912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "162",
+        "name": "Şeyh Fehmi Efendi'nin Vaskirt'te bahçe konağı",
+        "type": "bahçe konak/dergah",
+        "who": "Aşçı Dede",
+        "date_general": "İstanbul'a geçmek üzere Erzincan'a gidiş",
+        "date": "Ekim 1871",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.46486,
+          39.79098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "174",
+        "name": "Mehmed Vehbi Hayyat Efendi'nin türbesi yakınında yeni yapılan dergah",
+        "type": "dergah",
+        "who": "Aşçı Dede",
+        "date_general": "İstanbul'a geçmek üzere Erzincan'a gidiş",
+        "date": "leyle-i mirac 1871",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.49946,
+          39.71703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "147",
+        "name": "Mehmed Vehbi Hayyat Efendi'nin türbesi",
+        "type": "türbe",
+        "who": "Aşçı Dede",
+        "date_general": "İstanbul'a geçmek üzere Erzincan'a gidiş",
+        "date": "1871",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.49774,
+          39.71643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "174",
+        "name": "Mehmed Vehbi Hayyat Efendi'nin türbesi yakınında yeni yapılan dergah",
+        "type": "dergah",
+        "who": "Aşçı Dede",
+        "date_general": "İstanbul'a geçmek üzere Erzincan'a gidiş, bir üstteki ile aynı gün",
+        "date": "1871",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.49946,
+          39.71703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1005",
+        "name": "Trabzon",
+        "type": "şehir",
+        "who": "Aşçı Dede",
+        "date_general": "Trabzon'a varış",
+        "date": "1871",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.72044,
+          41.00242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2002",
+        "name": "Cimin karyesi",
+        "type": "karye",
+        "who": "Aşçı Dede",
+        "date_general": "",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.70231,
+          39.70912
+        ]
+      }
+    }
+  ]
+}
