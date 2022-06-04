@@ -1,0 +1,2862 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "502",
+        "name": "Edirne istasyonu ve oradaki gazino",
+        "type": "istasyon",
+        "who": "Aşçı Dede",
+        "date_general": "1896-1898",
+        "date": "4 Ekim 1896",
+        "text": "İşte bu neşe ve bu muhabbede gece saat sekiz raddelerinde cümleten Edirne istasyonuna nüzul ettik. Edirne’de olan ihvan-1 ba-sefa tarafmdan bi’l-vekale ka­nun <;:avuşlanyla baZ1 hademeler istikbal ederek oradaki gazinoya inerek yatsı namazı ba’de’l-eda <;:aylar nllş olunup sabahu’l-hayr müjdecisi o felek, inci gibi be­ yaz dişlerini göstererek yüzümüze tebessüm buyurdugunu görünce Cenab-ı Hakk’a hamd ü sena ve felege teşekkür i<;:in sabah namazma ve Hak niyazma mübaşeret ve baZI ezkar, evräd tilavetiyle muntaz1r-1 d’i:dar-1 Halid oldum."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.52154,
+          41.65161,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "503",
+        "name": "Mevlevihane [Edirne'de başka mevlevihane var mı bilmiyorum ama bu Muradiye Camii'nin olduğu yerde olan mevlevihane]",
+        "type": "mevlevihane",
+        "who": "Aşçı Dede",
+        "date_general": "1896-1898",
+        "date": "4 veya 5 Ekim 1896",
+        "text": "Bir müddet<;:ik aram edip oradan birlikte daireye gitmezden evvelce da’ire-i al’i:-i Cenab,1 Mevlana olan Mevlev’ihaneye ve ·hak-i pay,i Hazret-i $eyh-i Ekrem Hac, Eşref ·Efendi hazretlerine yüz ve göz sürüp yüzümü şems ziyas1yla pür-nur ve gözümü kibr’i:t-i ahmer olan kuhl-i Mevlana ile tezyin ettim. Hazret,i şeyhin cemaline, kemaline muhabbet ve irfanma sad hezar aferin ü tahsin edip kap1sma halka be,guş gulam oldum.  "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.56438,
+          41.68274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "504",
+        "name": "Halid Efendi'nin Mevlevihane'ye karib hanesi",
+        "type": "hane",
+        "who": "Aşçı Dede",
+        "date_general": "1896-1898",
+        "date": "4 veya 5 Ekim 1896",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5633,
+          41.68277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "505",
+        "name": "daire-i vilayet [nerede?]",
+        "type": "",
+        "who": "Aşçı Dede",
+        "date_general": "1896-1898",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.55133,
+          41.67947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "506",
+        "name": "Aşçı Dede için icar olunan, hem Mevlevihane'ye hem Halid Efendi'nin hanesine karib hane, Küçükpazar'da Muradiye Mahallesi'nde Arnavut Bayırı'nda",
+        "type": "hane",
+        "who": "Aşçı Dede",
+        "date_general": "1896-1898",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.56628,
+          41.67861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "507",
+        "name": "Aşçı Dede'nin Mevlevihane'ye ve Halid Efendi'nin hanesine karib hanesinin ittisalinde mescit",
+        "type": "mescit",
+        "who": "Aşçı Dede",
+        "date_general": "1896-1898",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.56635,
+          41.67856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "508",
+        "name": "Mevlevihane'nin ve Muradiye Camii'nin avlusunda olan Şeyh Enis-i Mevlevi'nin türbesi ve onun mürşidi olan Ahmed Neşati'nin Muradiye Camii'nin ittisalindeki kabristandaki mezarı",
+        "type": "türbe",
+        "who": "Aşçı Dede",
+        "date_general": "1896-1898",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.56478,
+          41.68213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "509",
+        "name": "Atik Camii",
+        "type": "cami",
+        "who": "Aşçı Dede",
+        "date_general": "1896-1898",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.55578,
+          41.67664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "509",
+        "name": "Atik Camii",
+        "type": "cami",
+        "who": "Aşçı Dede",
+        "date_general": "1896-1898",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.55578,
+          41.67664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "510",
+        "name": "Muradiye Camii",
+        "type": "cami",
+        "who": "Aşçı Dede",
+        "date_general": "1896-1898",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.56479,
+          41.68242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "510",
+        "name": "Muradiye Camii ittisalindeki kabristanın önünden ve cümle kapısından yirmi otuz hatve aşağıda ve yolun karşı tarafındaki hane",
+        "type": "hane",
+        "who": "Aşçı Dede",
+        "date_general": "1896-1898",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.56479,
+          41.68242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "504",
+        "name": "Halid Efendi'nin Mevlevihane'ye karib hanesi",
+        "type": "hane",
+        "who": "haremi Dilber Hatun",
+        "date_general": "1896-1898",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5633,
+          41.68277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "511",
+        "name": "Halid Efendi'nin hanesinin arkasına muttasıl hamamlı hane [bu Aşçı Dede'nin Muradiye Camii'nden çıktıktan sonra görüp çok beğendiği hane ile aynı hane]",
+        "type": "hane",
+        "who": "haremi Dilber Hatun",
+        "date_general": "1896-1898",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.56317,
+          41.68302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "511",
+        "name": "Halid Efendi'nin hanesinin arkasına muttasıl hamamlı hane [bu Aşçı Dede'nin Muradiye Camii'nden çıktıktan sonra görüp çok beğendiği hane ile aynı hane]",
+        "type": "hane",
+        "who": "Aşçı Dede",
+        "date_general": "1896-1898",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.56317,
+          41.68302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "511",
+        "name": "Halid Efendi'nin hanesinin arkasına muttasıl hamamlı hane [bu Aşçı Dede'nin Muradiye Camii'nden çıktıktan sonra görüp çok beğendiği hane ile aynı hane]",
+        "type": "hane",
+        "who": "Aşçı Dede",
+        "date_general": "1896-1898",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.56317,
+          41.68302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "510",
+        "name": "Muradiye Camii",
+        "type": "cami",
+        "who": "Aşçı Dede",
+        "date_general": "1896-1898",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.56479,
+          41.68242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "505",
+        "name": "daire-i hükümet [nerede?]",
+        "type": "",
+        "who": "Aşçı Dede",
+        "date_general": "1896-1898",
+        "date": "23 Şubat 1897",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.55133,
+          41.67947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "512",
+        "name": "Sultan Selim Camii",
+        "type": "cami",
+        "who": "Aşçı Dede",
+        "date_general": "1896-1898",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.55918,
+          41.67814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "511",
+        "name": "Halid Efendi'nin hanesinin arkasına muttasıl hamamlı hane ",
+        "type": "hane",
+        "who": "Aşçı Dede",
+        "date_general": "1896-1898",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.56317,
+          41.68302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "503",
+        "name": "Mevlevihane",
+        "type": "mevlevihane",
+        "who": "Aşçı Dede",
+        "date_general": "1896-1898",
+        "date": "Mart 1897",
+        "text": "Ferdâsı perşembe günü Mevlevîhaneye gittim, semahanede ve kûşe-i vah ­dette büzülüp oturdum. Risalemizde evvelce dahi birkaç defa vuku bulup arz olunduğu üzere böyle bir mühim ve mutena bir madde olursa Hazret-i Mevlânâ kaddesallâhu sırrahu’l-azîz efendimizden tefeül tarikiyle istimdat ederim. Kemâ-fi’s-sâbık mutribde na’t-ı şerîfe bed’olunmazdan evvel [483] Hazret-i Pîr efendimizin rûhâniyyet-i kudsiyyelerine müteveccih olup bu mesel-i ma’lûme için yani zuhur eden Yunan muharebesinin hakkında istifsar ve istimdâd tarikiyle tefeül ettim, yani kıraat olunacak na’t-ı şerîften keyfiyet istidlal oluna ­caktır."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.56438,
+          41.68274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "503",
+        "name": "Mevlevihane",
+        "type": "mevlevihane",
+        "who": "Aşçı Dede",
+        "date_general": "1896-1898",
+        "date": "20 Mayıs 1897",
+        "text": "Binaenaleyh edâ-yı şükrâniyyet ü mahmidet için fî 8 Mayıs sene 313 [20 Mayıs 1897] yevm-i perşembe Edirne Mevlevîhânesi’ne gidip kemâ-fi’s-sâbık Hazret-i Mevlânâ Celâleddin-i Rûmî kuddise sırruhu’l-azîz hazretlerinin rûhâniyyet-i kudsiyyelerine müteveccihen kıraat olunacak na‘t-ı şerîfe ve ma‘nâ-yı işarete muntazır oldum. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.56438,
+          41.68274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "511",
+        "name": "Halid Efendi'nin hanesinin arkasına muttasıl hamamlı hane ",
+        "type": "hane",
+        "who": "Aşçı Dede",
+        "date_general": "1896-1898",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.56317,
+          41.68302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "511",
+        "name": "Halid Efendi'nin hanesinin arkasına muttasıl hamamlı hane ",
+        "type": "hane",
+        "who": "Aşçı Dede",
+        "date_general": "1896-1898",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.56317,
+          41.68302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "503",
+        "name": "Mevlevihane",
+        "type": "mevlevihane",
+        "who": "Aşçı Dede",
+        "date_general": "1896-1898",
+        "date": "7 Ocak 1898",
+        "text": "Emirnâme-i seraskerî perşembe günü gelmesiyle o gün de Mevlevîhanenin günü olduğundan hem teşekkür ve hem de Hazret-i Pîr efendimizden bi-tarîki’t-tefe’ül zuhur edecek emr ü irade rumûz-ı ma’neviyyeyi istima için Mevlevîhaneye gittim. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.56438,
+          41.68274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "512",
+        "name": "Sultan Selim Camii",
+        "type": "cami",
+        "who": "Aşçı Dede",
+        "date_general": "1896-1898",
+        "date": "8 Ocak 1898",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.55918,
+          41.67814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "511",
+        "name": "Edirne",
+        "type": "şehir",
+        "who": "Dilber Hanım'ın oğlu Arif Bey",
+        "date_general": "1896-1898",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.56317,
+          41.68302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "502",
+        "name": "Edirne",
+        "type": "şehir",
+        "who": "Aşçı Dede",
+        "date_general": "Haziran 1898 - Temmuz 1903",
+        "date": "22 Haziran 1898",
+        "text": "Bin üç yüz on altı senesi Saferü’l-hayrın birinci [21 Haziran 1898] sah günü akşamı yani ikinci çarşamba gecesi İsmail Efendi ile birlikte şimendifere râkiben ferdâsı perşembe günü alessabah Edirne’ye muvasalat müyesser-kerde-i Cenâb-ı İzzet olup artık cümleten bir îd-i ekber olmuştur azizim."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.52154,
+          41.65161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "511",
+        "name": "Halid Efendi'nin hanesinin arkasına muttasıl hamamlı hane [burada hane demiyor ama gelen gideni hanesinde ağırlıyordur herhalde?]",
+        "type": "hane",
+        "who": "Aşçı Dede",
+        "date_general": "Haziran 1898 - Temmuz 1903",
+        "date": "23 Haziran 1898",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.56317,
+          41.68302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "503",
+        "name": "Mevlevihane",
+        "type": "mevlevihane",
+        "who": "Aşçı Dede",
+        "date_general": "Haziran 1898 - Temmuz 1903",
+        "date": "",
+        "text": "Bu defa Edirne’ye hîn-i muvasalat-ı kemterîden beri Edirne Mevlevihane postnişini kudemâ-yı meşâyıh-ı ızâm-ı Mevleviyyeden ve e’azz-i kirâm-ı zevi’l-ihtirâmdan ve her suretle duası alınacak bir zât-ı âlî-kadr olduğu gibi, bizim İkinci Şube Müdürü izzetlû Hâlid Efendi ruhumuz canımızın dahi mürşitleri olmakla huzûr u sohbet ü muhabbet-i devletleriyle devam olunduğu ve bu bapta olan evsaf u ahvalleri evvelce dahi tafsilen beyan olunmuştu. Şeyh-i müşarün ­ ileyh hazretleriyle de bazı kere de âlem-i ma’nâda mülâkat olunurdu. Bu defa Hicaz’dan avdet-i fakîride yine muhabbet ü ubûdiyyet-i sâbıkaya terdîfen huzûr u muhabbet-i mürşidânelerine müdâvemet olunmakta idi. Şu kadar var ki her perşembe günü âyîn-i şerîfe hazır olurdum, lâkin sikke-i şerîf giyip semahaneye dahil olmazdım. Züvvârlara mahsus olan mahalde oturup yine aşk u muhabbet-i Hazret-i Mevlânâ ile kıtmîr-veş sızlanır idim."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.56438,
+          41.68274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "508",
+        "name": "Mevlevihane'de Şeyh Enis Dede'nin türbesi",
+        "type": "türbe",
+        "who": "Aşçı Dede",
+        "date_general": "Haziran 1898 - Temmuz 1903",
+        "date": "22 Aralık 1898",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.56478,
+          41.68213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "503",
+        "name": "Mevlevihane",
+        "type": "mevlevihane",
+        "who": "Aşçı Dede",
+        "date_general": "Haziran 1898 - Temmuz 1903",
+        "date": "1898",
+        "text": "Biz gelelim kendi bahsimize. Mezkûr rü’yâ-yı sâdıka fî 24 Cemâziyelevvel sene 316 (10 Kasım 1898) ve fî 28 Teşrîn-i evvel 314 pazartesi gecesi görülmüş idi. Usûl-i sâbıka ve kâ’ide-i mer’iyye-i fakîrî üzere o hafta perşembe günü âyîn-i şerîfte bulunmak için Mevlevîhaneye gittim ve makamımız olan bir kûşe-i vahdette büzülüp bu görünen rüyanın ledünniyâtı hakkında Hazret-i Pîr efendimizden tefeül ederek bu bapta sâdır olacak emr ü fermanlarına kıraat olunacak na’t-ı şeriften istidlâl olunmak üzere niyet olunarak Hazret-i Pîr efendimize teveccüh ve râbıta-i kalb ile kulağımı mutribde okunacak na’t-ı şerîfe havale ederek can u gönülden istimaa muntazır idim."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.56438,
+          41.68274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "510",
+        "name": "Muradiye Camii",
+        "type": "cami",
+        "who": "Aşçı Dede",
+        "date_general": "Haziran 1898 - Temmuz 1903",
+        "date": "4 Ağustos 1899",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.56479,
+          41.68242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "503",
+        "name": "Edirne Mevlevihanesi",
+        "type": "mevlevihane",
+        "who": "Aşçı Dede",
+        "date_general": "Haziran 1898 - Temmuz 1903",
+        "date": "4 Ağustos 1899",
+        "text": "Bin üç yüz [582] on yedi senesi Rebiülevvelin yirmi yedinci [4 Ağustos 1899] cuma günü Edirne Mevlevîhanesi’nde mevlûd-i nebevî kıraat olunacağı cihetle bi’l-umûm zevât-ı kirâm davet olunmuş idi, yani müşir paşa efendimiz hazretlerinden ilâ nihâye cümle paşalar ve beyler ve ulema ve meşâyıh-ı kirâm med’uv idiler. Bunların ekserisi bu yüzsüz asi Aşçı Dede’yi Mevlevî meşâyıh-ı ızâmı mukallidi olarak öyle elbise-i Mevlevî ve destârlı sikke-i şerîfle görmemiş idiler."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.56438,
+          41.68274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "513",
+        "name": "Kadirihane dergah-ı şerifi [?]",
+        "type": "dergah",
+        "who": "Aşçı Dede",
+        "date_general": "Haziran 1898 - Temmuz 1903",
+        "date": "Ağustos 1899",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.55835,
+          41.67533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "514",
+        "name": "daire-i cedide-i askeriye",
+        "type": "askeriye",
+        "who": "Aşçı Dede",
+        "date_general": "Haziran 1898 - Temmuz 1903",
+        "date": "31 Ağustos 1899",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.55429,
+          41.6775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "515",
+        "name": "Üçşerefeli Camii",
+        "type": "cami",
+        "who": "Aşçı Dede",
+        "date_general": "Haziran 1898 - Temmuz 1903",
+        "date": "1 Eylül 1899",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.55336,
+          41.67812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "512",
+        "name": "Sultan Selim Camii",
+        "type": "cami",
+        "who": "Aşçı Dede",
+        "date_general": "Haziran 1898 - Temmuz 1903",
+        "date": "29 Ekim 1899",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.55918,
+          41.67814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "510",
+        "name": "Muradiye Camii",
+        "type": "cami",
+        "who": "Aşçı Dede",
+        "date_general": "Haziran 1898 - Temmuz 1903",
+        "date": "2 Kasım 1899 [bu ve yukarıdaki satırlardaki tarihlerde bir sorun var?]",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.56479,
+          41.68242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "512",
+        "name": "Sultan Selim Camii",
+        "type": "cami",
+        "who": "Aşçı Dede",
+        "date_general": "Haziran 1898 - Temmuz 1903",
+        "date": "9 Temmuz 1900",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.55918,
+          41.67814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "514",
+        "name": "daire-i askeriyedeki cami [?]",
+        "type": "cami",
+        "who": "Aşçı Dede",
+        "date_general": "Haziran 1898 - Temmuz 1903",
+        "date": "7 Kasım 1900",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.55429,
+          41.6775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "516",
+        "name": "Karanfiloğlu Çarşısı",
+        "type": "çarşı",
+        "who": "Aşçı Dede",
+        "date_general": "Haziran 1898 - Temmuz 1903",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5542,
+          41.67938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "509",
+        "name": "Eski Cami",
+        "type": "cami",
+        "who": "Aşçı Dede",
+        "date_general": "Haziran 1898 - Temmuz 1903",
+        "date": "28 Kasım 1901",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.55578,
+          41.67664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "503",
+        "name": "Mevlevihane",
+        "type": "mevlevihane",
+        "who": "Aşçı Dede",
+        "date_general": "Haziran 1898 - Temmuz 1903",
+        "date": "",
+        "text": "Ve bu niyâz-ı ma’neviyye-i fakîrîye bir mukaddime olmak üzere îd-i adhâ gecesinde Mevlevihane kuşat ile âyîn-i şerîf icra olunacağından o feyz-i Mevlânâda dahi bulunmalarını mûmâileyhimâ Asım ve Hâşim Efendilere tebliğ ettim. Teşrif buyurdular. Ve ikisi de fakirin makâm-ı ma’lûmum olan mahallin arkasında oturup fakire zahîr ü muin oldular. Ve Hazret-i Hâşim Çelebi kemâl-i dikkatle seyr ü temaşa buyururlar idi. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.56438,
+          41.68274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "511",
+        "name": "Halid Efendi'nin hanesinin arkasına muttasıl hamamlı hane ",
+        "type": "hane",
+        "who": "Asım ve Haşim ve Ziyaeddin Efendiler",
+        "date_general": "Haziran 1898 - Temmuz 1903",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.56317,
+          41.68302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "503",
+        "name": "Mevlevihane",
+        "type": "mevlevihane",
+        "who": "Aşçı Dede",
+        "date_general": "Haziran 1898 - Temmuz 1903",
+        "date": "",
+        "text": "Id-i adhânın beşinci perşembe günü Mevlevîhanenin âyîn-i şerîf günü olmakla alelâde gittim. Risalemizin evvellerinde dahi kirâren ve mirâren mürur eylediği üzere bu gibi manevî bir mâdde-i mühimme ve mukaddese zuhurunda mutrıbdan kıraat olunacak na’t-ı şerîften tefeül tarikiyle Hazret-i Pîr efendi ­mizden istifsâr-ı mâdde eder idim ve ona göre kıraat olunan na’t-ı şerîften oluna­cak remz ü işaret üzerine hareket eder idim. İşte bu gün de o âdeti ifa için mumaileyh Hâşim Efendi ile olunan akd ü biat muhabbeti tefeül tarikiyle kıraat olunacak na’t-ı şerîften işaret yoluyla istifsar ettim. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.56438,
+          41.68274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "511",
+        "name": "Halid Efendi'nin hanesinin arkasına muttasıl hamamlı hane ",
+        "type": "hane",
+        "who": "Asım ve Haşim Efendiler",
+        "date_general": "Haziran 1898 - Temmuz 1903",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.56317,
+          41.68302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "511",
+        "name": "Halid Efendi'nin hanesinin arkasına muttasıl hamamlı hane ",
+        "type": "hane",
+        "who": "Asım ve Haşim Efendiler",
+        "date_general": "Haziran 1898 - Temmuz 1903",
+        "date": "20 Nisan 1901",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.56317,
+          41.68302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "511",
+        "name": "Halid Efendi'nin hanesinin arkasına muttasıl hamamlı hane ",
+        "type": "hane",
+        "who": "Haşim Efendi",
+        "date_general": "Haziran 1898 - Temmuz 1903",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.56317,
+          41.68302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "503",
+        "name": "Mevlevihane",
+        "type": "mevlevihane",
+        "who": "Aşçı Dede",
+        "date_general": "Haziran 1898 - Temmuz 1903",
+        "date": "",
+        "text": "Perşembe günü Hâşim Efendi ile Mevlevîhaneye gittik. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.56438,
+          41.68274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "511",
+        "name": "Halid Efendi'nin hanesinin arkasına muttasıl hamamlı hane ",
+        "type": "hane",
+        "who": "Aşçı Dede",
+        "date_general": "Haziran 1898 - Temmuz 1903",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.56317,
+          41.68302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "503",
+        "name": "Mevlevihane",
+        "type": "mevlevihane",
+        "who": "Aşçı Dede",
+        "date_general": "Haziran 1898 - Temmuz 1903",
+        "date": "22 Ağustos 1901",
+        "text": "Bu sözümü tekit edip bununla ispat ederim ki fî 9 Ağustos sene 317 [22 Ağustos 1901] perşembe günü semahaneye girmezden evvel kendilerine mahsus olan odalarına gittim. Müşarünileyh Salâhaddin Efendi de orada hazır idiler. Fakirin Şâm-ı şerifte olan mahdumum Hüsameddin Efendi hakkında tanzim etmiş olduğum bir manzume ki evvelce Hazret-i Salâhaddin Efendi’ye gösterilmiştir, ibtidaki beyti güya biraderleri Hüsameddin Efendi için tanzim olunmuş kılıklı mumaileyh Hüsameddin Efendi’ye hitaben kemâl-i aşk u muhabbetle okudum."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.56438,
+          41.68274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "503",
+        "name": "Mevlevihane",
+        "type": "mevlevihane",
+        "who": "Aşçı Dede",
+        "date_general": "Haziran 1898 - Temmuz 1903",
+        "date": "17 Ekim 1901",
+        "text": "Vaktaki Receb-i şerîfin yani bin üç yüz on dokuz senesi Recebin üçüncü [17 Ekim 1901] perşembe günü oldu, o gün âyîn-i şerîf icra olunmayıp gecesine talik olundu. Akşam üzeri med’uv olan ihvân-ı bâ-sefâ teşrif etmeye başladılar. Fakir de saat on birde gittim, Müşarünileyh Salâhaddin Efendi, haremde hazret-i şeyh-i ekrem efendimizin huzurlarında imiş’. Destarsız sikke-i şerîf başlarında olduğu hâlde selâmlıktaki hazret-i şeyhin odasına teşrif buyurdular. İkimizden başka kimse yok idi."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.56438,
+          41.68274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "503",
+        "name": "Mevlevihane",
+        "type": "mevlevihane",
+        "who": "Aşçı Dede",
+        "date_general": "Haziran 1898 - Temmuz 1903",
+        "date": "",
+        "text": "Sebeb-i zâhirîsi ise sinn-i fakîrî ve za’f-ı sinir muktezası fakirhaneden arabaya râkiben gidiyorum, mâşiyen muktedir değilim. Ancak âyîn-i şerîf günleri güç hâl ile altı kuruş tedarik olunabilir. Kandil gecesi iki altılık ile araba tedarik olunur, zira ki gece saat beşte araba gelir. Binaenaleyh öyle geceleri huzûr-ı hazret-i şeyhe gitmek fakir için muhal idi. Kandil gecesinden sonraki hafta ki perşembe günü alelusul gittim. Gördüm ki dergâhta efendilerden kimse yoktur. Şeyh dairesi de baştan ayağa toplanmış; oturacak duracak yer yoktur. Yalnız Kâmil Efendi üzerlerinde durup tamirat ve tathirat icra ettiriyor. Buraya kadar gelmiş iken bari huzûr-ı hazret-i şeyhe çıkıp hâk-i paylarına yüz süreyim dedim. “ Uykuda ” cevabını alıp meyus ve mükedder avdet ettim. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.56438,
+          41.68274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "514",
+        "name": "Aşçı Dede'nin olduğu askeri şube",
+        "type": "askeriye",
+        "who": "Edirne Mevlevihanesi şeyhi Eşref Efendi'nin oğlu Salahaddin Efendi",
+        "date_general": "Haziran 1898 - Temmuz 1903",
+        "date": "27 Ekim 1901",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.55429,
+          41.6775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "514",
+        "name": "Aşçı Dede'nin olduğu askeri şube",
+        "type": "askeriye",
+        "who": "Muhasebeci Tahsin Beyefendi",
+        "date_general": "Haziran 1898 - Temmuz 1903",
+        "date": "28 Ekim 1901",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.55429,
+          41.6775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "517",
+        "name": "Aşçı Dede'nin oturduğu mahallenin bakkalı (Hacı Osman Efendi'nin bakkalı)",
+        "type": "dükkan",
+        "who": "Aşçı Dede",
+        "date_general": "Haziran 1898 - Temmuz 1903",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5634,
+          41.68212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "509",
+        "name": "Eski Cami",
+        "type": "cami",
+        "who": "Aşçı Dede",
+        "date_general": "Haziran 1898 - Temmuz 1903",
+        "date": "19 Aralık 1901",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.55578,
+          41.67664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "503",
+        "name": "Mevlevihane",
+        "type": "mevlevihane",
+        "who": "Aşçı Dede",
+        "date_general": "Haziran 1898 - Temmuz 1903",
+        "date": "24 Aralık 1901",
+        "text": "Fakir sabah namazını eda edip tespihleri ve duayı tamam ettim. Seccadeden kalkmak üzere iken kapı çalındı. Derhâl intikal ettim ki hazret-i şeyh gitti. Pencereyi açtım, Mehmed Dede’yi gördüm. “ Ne haber? ” dedim. “ Şeyh efendi göçtü, sizi istiyorlar ” dedi. İşte ağlayarak “ Geliyorum ” dedim, lâkin daha kendimi zapt edemedim. Artık burasını ne sen sor, ne ben söyleyeyim. Derhâl elbisemi [94] değişip bir arabaya binip dergâha gittim. Merdivenden çıktım, divanhanenin kapısını iki kanatları açılmış divanhanede Hüsameddin Efendi’yi gördüm. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.56438,
+          41.68274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "509",
+        "name": "Eski Cami",
+        "type": "cami",
+        "who": "Aşçı Dede",
+        "date_general": "Haziran 1898 - Temmuz 1903",
+        "date": "24 Aralık 1901",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.55578,
+          41.67664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "503",
+        "name": "Mevlevihane",
+        "type": "mevlevihane",
+        "who": "Aşçı Dede",
+        "date_general": "Haziran 1898 - Temmuz 1903",
+        "date": "24 Aralık 1901",
+        "text": "Badehu kemâ-fi’s-sâbık dedegân cenazenin önüne düşüp daha ilerisinde turuk-ı şâire dervîşânı ism-i hû ve biz de ism-i celâl ile pür-cemâl olarak sokaklar lebâleb dolmuş, iğne atsan yere düşmez, cenaze eller üstünde olarak kemâl-i ta’zîm ü tekrîm ile tekrar dergâh-ı şerîfe avdet olunup türbe-i şerîfte Hazret-i Enis kuddise sırruhu’l-azîz yanında tehiyye olunmuş olan kabr-i şerîfe vücudu mahv olmuş, bir nûr-ı mahz kalmış Hazret-i Mevlânâ kuddise sırruhu’l-azîz efendimizin bendegân-ı hâssmdan bir bendesi olan Hacı Eşref Dede Efendi’yi vaz’ile zikrullâha netice verdik. Rahmetullâhi aleyhi, kuddise sırruhu’l-azîz, hû azizim."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.56438,
+          41.68274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "509",
+        "name": "Eski Cami",
+        "type": "cami",
+        "who": "Aşçı Dede",
+        "date_general": "Haziran 1898 - Temmuz 1903",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.55578,
+          41.67664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "514",
+        "name": "Aşçı Dede'nin şubesi [daire- askeriye]",
+        "type": "askeriye",
+        "who": "Şeyh Eşref Efendi'nin oğlu, Mevlevihane'nin yeni şeyhi Salahaddin Efendi ve İsmail Efendi",
+        "date_general": "Haziran 1898 - Temmuz 1903",
+        "date": "27 Ocak 1902",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.55429,
+          41.6775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "503",
+        "name": "Mevlevihane",
+        "type": "mevlevihane",
+        "who": "Aşçı Dede",
+        "date_general": "Haziran 1898 - Temmuz 1903",
+        "date": "",
+        "text": "Ferdâsı günü alessabah hâk-i pây-i hazret-i şeyhe yüz sürdüm. Tenha buldum. Artık arîz ü amîk zâhir ü bâtın işin her cihetini anladım ve ledünniyâtına tamamıyla vakıf olup âyîn-i şerîfin icrası vakt-i merhûnuna ve Hazret-i Pîr efendimizin ruhsat-ı ma’neviyyelerine menut ve mütevakkıf olduğunu söyledikleri ve şimdilik izharını men’ederek esrar nevinden olarak mektûm tutulmasını irade ve tembih buyurdukları kelâm-ı âlîlerinden anladığımdan bu cilve ve bu esrâr-ı ma’neviyyenin zuhurundan dolayı sultanımız Salâhaddin Efendimizin cemâl-i bâ-kemâllerine şöyle hayran ve sergerdân nazır olduğum anda iç il mutasarrıflığı cânib-i ma’neviyyesinden şöyle remz ü işaret buyuruldu ki galiba tamyamadınız sizin sultanınızdır, yani vaktiyle sultan nân-ı nâmîsi ile yâd olunan Hazret-i Salâhaddindir.  "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.56438,
+          41.68274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "503",
+        "name": "Mevlevihane",
+        "type": "mevlevihane",
+        "who": "Aşçı Dede",
+        "date_general": "Haziran 1898 - Temmuz 1903",
+        "date": "2 Mart 1902",
+        "text": "Pazar günü akşamı yani pazartesi gecesi dergâh-ı şerîfe gidip hâk-i pây-i hazret-i şeyhe yüz sürüp arz-ı niyâz ve tebrîk-i meşihat olundu. Ve ba’de’l-îşâ usûl-i kadîme üzere ism-i celâl çekilip hazret-i şeyhin odasında ber-mûceb-i kânûn-ı Mevleviyye cümle can hazır bulunup o huzurda kemâl-i ta’zîm [106] ütekrîm ile meşihatname kıraat ve badehu şeyh efendi tarafından dua ve niyaz eda ve ifa olunduktan sonra alâ-merâtibihim huzûr-ı şeyhe birer birer baş kesilip yed-i şerîfi takbîl ile usûl-i bey’ât-ı Mevleviyye icra yani cümle can teslîm-kerdân-ı rızâ-yı muhabbet etmişlerdir. Ve badehu dem-i Hazret-i Mevlânâ keşidesiyle “ Hitâmuhu miskun ” 128 sırrıyla netice ve hitâm-pezîr olmuştur azizim."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.56438,
+          41.68274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "503",
+        "name": "Mevlevihane",
+        "type": "mevlevihane",
+        "who": "Aşçı Dede",
+        "date_general": "Haziran 1898 - Temmuz 1903",
+        "date": "6 Mart 1902",
+        "text": "îşte azizim artık zâhir ü bâtın bir mâni ve mezâhim kalmamış olduğundan o perşembe günü ki bin üç yüz on dokuz senesi Zilka’denin yirmi altıncı [6 Mart 1902] ve bin üç yüz on yedi senesi Şubatının yirmi birinci günü idi, semâhâne-i aşk feth ü küşadıyla teberrüken bizim Hâlid Efendi Mesnevî-i şerîfi kıraat ettiler. Hikmet-i İlâhî ders birinci ciltte kenîze hikâyesinde Musa aleyhisselâmın kavmi maide talep etmesi hakkında idi. Lehu’l-hamdu ve’l-minne o yevm-i mübârekte ve icrâ-yı âyîn-i şerîfte mâ’ide-i ma’neviyye nazil olduğuna şüphe yoktur. Hatta hazret-i şeyh merhumun [110] rûhâniyyet-i kudsiyyeleri nüzulüyle dördüncü selâmda manevî sema buyurmuşlardır ki dördüncü selâmda zâhirde kimse meydana çıkıp hazret-i şeyhin makamlarında sema etmemiştir. Ve o akşam fakirleri dergâh-ı şerîfte kalıp akşam taamını canlar ile beraber edip ba ’de’l-ışâ ism-i celâlde bulunup sair canlara ihsan olunduğu gibi iki adet nezr-i Mevlânâ da fakirlerine ihdâ olunmuştur azizim."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.56438,
+          41.68274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "503",
+        "name": "Mevlevihane",
+        "type": "mevlevihane",
+        "who": "Aşçı Dede",
+        "date_general": "Haziran 1898 - Temmuz 1903",
+        "date": "Mart 1902",
+        "text": "İkinci haftadaki icra olunacak âyîn-i şerîfte dördüncü selâmda sultanımız Salâhaddin Efendi hazretlerinin teberrüken sema edip gayrt kimsenin dâhil-i merkez olmaması niyazımı kendilerine arz ettim. Buyurdular ki “ Siz bu hafta sema ediniz, biz de bayram gecesi ederiz. ” Çünkü gelecek perşembe günü îd-i adhâ idi. Binaenaleyh “ Bayram gecesi it’âm-ı taâm ile semahane küşat olunacaktır ” emirlerine İmtisalen o hafta kemâ-fi’s-sâbık dördüncü selâmda dâhil-i merkez olarak sema ettim. Bizim Hâlid Efendi o hafta yok idi. Sonra efendi-İ mûmâileyhi dairede gördüm. Dedi ki “ Siz bu hafta sema etmişiniz? ” “ Evet, hazret öyle emir verdiler. ” “ İyi ammâ kadınlar demiş ki bak bir kere şeyh efendi merhuma rağmen onun yerinde sema ediyor? ” Dedim: [113] “ Siz bilirsiniz ki fakir destar sarıp dâhil-i semâhâne olduğum günden vefatı tarihine kadar mürur eden eyyam ki üç seneyi mütecavizdir, bu müddet zarfında şeyh efendi merhum asla sema buyurmayıp külliyen fakire terk etmişlerdir."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.56438,
+          41.68274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "503",
+        "name": "Mevlevihane",
+        "type": "mevlevihane",
+        "who": "Aşçı Dede",
+        "date_general": "Haziran 1898 - Temmuz 1903",
+        "date": "20 Mart 1902",
+        "text": "Vaktaki bayram gecesi kİ bin üç yüz on dokuzu senesi Zilhicce-i şerîfin onuncu [20 Mart 1902] perşembe gecesi idi, canlar ve bazı İhvân-ı kirâm dergâh-ı Şerîfe med’uv olup ba’de’t-ta’âm câmi’-i şerîfe gidilip yatsı namazı eda olunduktan sonra ism-i celâl çekilip oradan doğruca türbe-i şerîfe gidilip orada hatm-i kur’ân duası olunup badehu semahane küşadıyla dâhil-i semâhâne olduk."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.56438,
+          41.68274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "510",
+        "name": "Muradiye Camii",
+        "type": "cami",
+        "who": "Aşçı Dede",
+        "date_general": "Haziran 1898 - Temmuz 1903",
+        "date": "20 Mart 1902",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.56479,
+          41.68242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "508",
+        "name": "Türbe",
+        "type": "türbe",
+        "who": "Aşçı Dede",
+        "date_general": "Haziran 1898 - Temmuz 1903",
+        "date": "20 Mart 1902",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.56478,
+          41.68213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "514",
+        "name": "Aşçı Dede'nin şubesi [daire- askeriye]",
+        "type": "askeriye",
+        "who": "Aşçı Dede",
+        "date_general": "Haziran 1898 - Temmuz 1903",
+        "date": "8 Mart 1902",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.55429,
+          41.6775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "514",
+        "name": "Aşçı Dede'nin şubesi [daire- askeriye]",
+        "type": "askeriye",
+        "who": "Aşçı Dede",
+        "date_general": "Haziran 1898 - Temmuz 1903",
+        "date": "13 Temmuz 1902",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.55429,
+          41.6775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "514",
+        "name": "Aşçı Dede'nin şubesi [daire- askeriye]",
+        "type": "askeriye",
+        "who": "ihvan",
+        "date_general": "Haziran 1898 - Temmuz 1903",
+        "date": "Ağustos 1902",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.55429,
+          41.6775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "514",
+        "name": "Aşçı Dede'nin şubesi [daire- askeriye]",
+        "type": "askeriye",
+        "who": "Edirne Mevlevihanesi şeyhi Eşref Efendi'nin oğlu şeyh Salahaddin Efendi",
+        "date_general": "Haziran 1898 - Temmuz 1903",
+        "date": "Ağustos 1902",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.55429,
+          41.6775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "503",
+        "name": "Mevlevihane",
+        "type": "mevlevihane",
+        "who": "Aşçı Dede",
+        "date_general": "Haziran 1898 - Temmuz 1903",
+        "date": "",
+        "text": "îşte perşembe günü iradesinin taallukunu bundan istidlâl ediyorum ki o günkü âyîh-i şerîfte dördüncü selâmda fakirden başka yani ne şeyh efendi ve ne de Hâlid Efendi semaa girmediler. Yalnız .fakir sema ettim, çünkü bunlardan muhakkak birisi sema edecek idi, etmedi. Ve şöyle remz ü işaret oldu ki nail olduğunuz rütbenizin Hazret-i Pîr’e makâm-ı teşekkürde sema ile manevî arz-ı şükrâniyyet ü ubûdiyyet için meydân-ı aşk u muhabbet bugün size terk olunmuştur buyuruldu. Ve bunu semahaneden çıktığım anda yolda hazret-i şeyh efendimize arz ettim. Onlar da tasdik ve tebrik buyurdular azizim.  "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.56438,
+          41.68274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "503",
+        "name": "Mevlevihane",
+        "type": "mevlevihane",
+        "who": "Aşçı Dede",
+        "date_general": "Haziran 1898 - Temmuz 1903",
+        "date": "",
+        "text": "Ve rütbenin gazeteler ile neşr ü ilânından sonraki yani o perşembe günü âyîn-i Şerîfte ve dördüncü selâmda fakir sema eder iken hazret-i şeyh efendimiz de teşrif buyurup ikimiz sema ettik. [139] Lâkin o sema da asla hiçbir vakit olmamış bir başka sema idi ki hatta mutrip dahi şimdiye kadar istima olunmamış bir başka peşrev çaldı ve pek çok da uzattı, yani o kadar huzur ve neşe ve aşk zuhur etti ki asla kalemen arz edemem. Semahaneden çıktıktan sonra şeyh efendimiz hazretleri buyurdular ki “ Şimdiye kadar ne böyle bir peşrev çalındı ve ne de böyle boylu uzunca dördüncü selâm oldu. Mahza bu da Hazret-i Pîr efendimizin rûhâniyyet-i kudsiyyeleri teşrif ile manevî tebrîk-i rütbeniz gibi bir lutf u ihsân-ı kudsiyyeleridir ” buyurdular. Âmennâ ve saddaknâ azizim."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.56438,
+          41.68274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "511",
+        "name": "Halid Efendi'nin hanesinin arkasına muttasıl hamamlı hane ",
+        "type": "hane",
+        "who": "Aşçı Dede",
+        "date_general": "Haziran 1898 - Temmuz 1903",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.56317,
+          41.68302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "509",
+        "name": "Eski Cami",
+        "type": "cami",
+        "who": "Aşçı Dede",
+        "date_general": "Haziran 1898 - Temmuz 1903",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.55578,
+          41.67664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "509",
+        "name": "Eski Cami",
+        "type": "cami",
+        "who": "Aşçı Dede",
+        "date_general": "Haziran 1898 - Temmuz 1903",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.55578,
+          41.67664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "503",
+        "name": "Mevlevihane",
+        "type": "mevlevihane",
+        "who": "Aşçı Dede",
+        "date_general": "Haziran 1898 - Temmuz 1903",
+        "date": "",
+        "text": "Gelelim semahane bahsine yani âyîn-i şerîf icrasında sayha zuhur ederse işte bu memnû’-ı tarîk-i aliyye-i Mevleviyyedir. Fakir de bunun için ne tedbir ve pe ilâç edeceğimi bilemeyip âlem-i hayrette kalmış idim. Sayha zuhurunun ilk perşembe günü onlara sızlanarak tezellül-i hâl ederek Mevlevîhaneye gittim, Kuzûr-ı hazret-i şeyhe girip oturdum. Dedim: “ Azizim, hâlim malûmdur, ne olacak iş bugün? ” Buyurdular ki “ Sakın havf etmeyin, emin ve müsterih olun ki Hazret-i Pîr-i dest-gîrim Mevlânâ Celâleddin-i Rûmî kuddise sırruhu’l-azîz efendimizin sâye-i kudsiyyelerinde semahanede asla böyle tarîk-i aliyyelerinin hilâfı olan hâl ve harekette bulundurmaz sizi “ Lâ tehaf ve lâ tahzen ” 155 buyurdular. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.56438,
+          41.68274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "503",
+        "name": "Mevlevihane",
+        "type": "mevlevihane",
+        "who": "Aşçı Dede",
+        "date_general": "Haziran 1898 - Temmuz 1903",
+        "date": "",
+        "text": "Miraciye gecesi alelusul akşamdan taama ve gecesi âyîn-ı şerîfin icrasına davet olundum, gittim. Ba’de’t-ta’âm hazret-i şeyhin odasında diğer misâfirân ve meşâyıh ve ihvan ile ve alelusul fakirin can beraberim, aşkbâzım tabîb-i hâzık-ı hasta-dilân olan Tabîb-i evvel Miralay izzetlû Hüsnü Beyefendimiz ile birlikte muhabbet eder iken topçu fırkasına mensup Ferik saadetlû Talat Paşa hazretleri teşrif buyurdular. Doğruca gelip fakir ile Hüsnü Bey’in aramıza oturdular, iltifat buyurdular. Fakirin başımda destarlı sikke-i şerîf var idi. Biraz muhabbetten sonra buyurdular ki “ Bunca müddet Edirne’de olduğum hâlde bu gibi leyâlî-i mübârekelerde hiçbir gece Mevlevîhanede bulunamadım. Hamd olsun bu gece mi’râc-ı şerîf olduğundan muvaffak oldum ” buyurdular. Fakir cevap olarak dedim ki “ İnşallah ta’âlâ sırr-ı mi’râca mazhar olursunuz ” demekle beraber ihtiyarsız bir sayha ettim. Müşarünileyh hazretleri bir zaman yüzüme bakakaldı. Şeyh efendinin yanında Şeyh Şerafeddin Efendi oturuyor idi. Onlar da fakire bakınca dedim ki “ Ne yapayım, sebebiyet paşa efendimiz hazretlerinden oldu! ” "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.56438,
+          41.68274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "509",
+        "name": "Eski Cami",
+        "type": "cami",
+        "who": "Aşçı Dede",
+        "date_general": "Haziran 1898 - Temmuz 1903",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.55578,
+          41.67664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "509",
+        "name": "Eski Cami",
+        "type": "cami",
+        "who": "Aşçı Dede",
+        "date_general": "Haziran 1898 - Temmuz 1903",
+        "date": "10 Aralık 1902",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.55578,
+          41.67664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "514",
+        "name": "Aşçı Dede'nin şubesi [daire- askeriye]",
+        "type": "",
+        "who": "Aşçı Dede",
+        "date_general": "Haziran 1898 - Temmuz 1903",
+        "date": "Ocak 1903",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.55429,
+          41.6775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "514",
+        "name": "Aşçı Dede'nin şubesi [daire- askeriye]",
+        "type": "askeriye",
+        "who": "Aşçı Dede",
+        "date_general": "Haziran 1898 - Temmuz 1903",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.55429,
+          41.6775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "509",
+        "name": "Eski Cami",
+        "type": "cami",
+        "who": "Aşçı Dede",
+        "date_general": "Haziran 1898 - Temmuz 1903",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.55578,
+          41.67664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "509",
+        "name": "Eski Cami",
+        "type": "cami",
+        "who": "Aşçı Dede",
+        "date_general": "Haziran 1898 - Temmuz 1903",
+        "date": "20 Mart 1903",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.55578,
+          41.67664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "518",
+        "name": "Mevlevihane civarında Menzil-i Ahır demekle maruf garipler kabristanı",
+        "type": "kabristan",
+        "who": "Aşçı Dede",
+        "date_general": "Haziran 1898 - Temmuz 1903",
+        "date": "19 Nisan 1903",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.56797,
+          41.68383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "503",
+        "name": "Mevlevihane",
+        "type": "mevlevihane",
+        "who": "Aşçı Dede",
+        "date_general": "Haziran 1898 - Temmuz 1903",
+        "date": "",
+        "text": "O perşembe günü Mevlevîhaneye gittim. Mumaileyh Halil Efendi’nin “Haremi götürme! ” demesini hazret-i şeyhe arz ettim. Buyurdular ki “ Erenler tarafından size tekrar tekrar tekit oluyor. ” Fakir de dedim ki “ Zaten emr ü irâde-i reşâdet-penâhîleri bu merkezde idi, fakir de Öylece karar verdim. ” Semahaneye girdik. Dördüncü selâmda [228] gönlüme geldi ki bu semaimiz şimdilik vedadır. Binaenaleyh bir huzur ve bir aşk u muhabbet-i Mevlânâ ile sema ettim. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.56438,
+          41.68274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "502",
+        "name": "şimendifer",
+        "type": "istasyon",
+        "who": "Aşçı Dede",
+        "date_general": "Haziran 1898 - Temmuz 1903",
+        "date": "6 Temmuz 1903",
+        "text": "Halamın vefatından sonra refikam yalnız başına kaldığından Dersaadet’te olan mahdumu Arif Bey’in haremi Saraylı Hanım ile kerimesi dört yaşında Adeviye’yi buraya istedik. Binaenaleyh uç yüz on dokuz senesi Haziranın yirmi Üçüncü [6 Temmuz 1903] salı günü alessabah karşı gidip şimendiferden aldık. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.52154,
+          41.65161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "502",
+        "name": "şimendifer",
+        "type": "istasyon",
+        "who": "Aşçı Dede",
+        "date_general": "Haziran 1898 - Temmuz 1903",
+        "date": "23 Temmuz 1903",
+        "text": "Binaenaleyh bin üç yüz yirmi bir senesi Rebiülahirin yirmi yedinci [23 Temmuz 1903] ve bin üç yüz on dokuz senesi Temmuzun üçüncü perşembe günü mukâbele-i şerîften sonra fakirhaneye avdetle akşamı yani cuma gecesi şimendifere refikam hamın ile fakiri götürmeye gelmiş olan Saraylı Hanım beraberce râkiben ve kemâl-i lutf u keremlerinden naşi habersizce teşyi için istasyona teşrif buyurmuş olan Sultan Salâhaddin- Efendi hazretlerine vedâen “hû” deyip müteveccihen ilâ-âsitâne-i sa’âdet hareket olunmuştur. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.52154,
+          41.65161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "502",
+        "name": "Edirne İstasyonu",
+        "type": "istasyon",
+        "who": "Aşçı Dede",
+        "date_general": "Ekim 1903 - Ekim 1906",
+        "date": "2 Ekim 1903",
+        "text": "İstanbul’dan hareket etmezden evvelce şubemizden bizim Asım Efendi oğlumuza yazmış idik ki “ Kalabalık geliyoruz, kimseye misafir olamayacağımdan doğruca hanemize inmek için bize bir münasip hane istikra olunup tarafımıza bildirilmesi ve hanenin miftahı alınarak istikbal olunması. ” Mübarek zât-ı şerîf niyazımız gibi icra etmiş; ancak hangi haneyi icar ettiğini ve nerede olduğunu yasmadığı gibi, karşı istikbale dahi gelmemiş olduğundan artık tabiî doğruca mumaileyhin hanesine gidilmek lâzım [268] geldi. Zaten validesi hanım dahi evvelce refikama mektup yazıp davet- etmiş idi. Binaenaleyh cuma günü alessabah Edirne Istas.yonu’na bi’s-sıhhat ve’l-âfiyet çıkıp oradan bir arabaya râkiben “ Küçükpazar’da Arnavut Bayırı’nda Asım Efendi’nin hanesine arabacı çek bizi, götür! ” dedik. Gidiyoruz, Sultan Selim Câmi’-i şerîfi önünden geçip mekteb-i idâdiye karşısına gelir gelmez, bir de onu gördüm ki mumaileyh Asım Efendi oğlumuz arabanın önüne haramîler gibi çıkıp “ Arabacı çevir arabayı buraya! ” diyerek sabık Matbaa Memuru Dağıstanî Yüzbaşı bizim Hacı Mehmed Efendi merhumun köşe; başında .olan’hanesi önünden çevirip o. büyük caddeden sokağın içerisine soktu ve hemen orada bir hanenin Önünde arabayı durdurup buyurun dedi.  "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.52154,
+          41.65161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "519",
+        "name": "Sultan Selim Camii önünden geçip mekteb-i idadiye karşısına gelince, matbaa memuru Dağıstani Yüzbaşı Hacı Mehmed Emin Efendi merhumun köşe başında olan hanesine muttasıl kayınvalidesinin hanesi [Aşçı Dede için icar olunan hane]",
+        "type": "hane",
+        "who": "Aşçı Dede",
+        "date_general": "Ekim 1903 - Ekim 1906",
+        "date": "2 Ekim 1903",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.56041,
+          41.67973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "519",
+        "name": "Sultan Selim Camii önünden geçip mekteb-i idadiye karşısına gelince, matbaa memuru Dağıstani Yüzbaşı Hacı Mehmed Emin Efendi merhumun köşe başında olan hanesi",
+        "type": "hane",
+        "who": "Aşçı Dede",
+        "date_general": "Ekim 1903 - Ekim 1906",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.56041,
+          41.67973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "503",
+        "name": "Mevlevihane",
+        "type": "mevlevihane",
+        "who": "Aşçı Dede",
+        "date_general": "Ekim 1903 - Ekim 1906",
+        "date": "2 Ekim 1903",
+        "text": "Hatta buraya gelip hanemize nüzul [274] ettiğim saat hiçbir ferd-i âferîn ziyaretine gitmeyip doğruca Sultan Salâhaddin Efendi hazretlerinin ziyâret-i reşâdetlerine ve hâk-i pâylarma yüz sürmek için dergâh-ı şerîfe gittim. O gün cuma olması ^münasebetiyle dergâhta olanların cümlesi seyrana gitmişler, ancak müşarünileyh hazretleri yalnız başına dergâhta kalmışlar. Demek oluyor ki manevî kendilerine fakirin geleceğim malûm olmuş ki fakire muntazır olmuşlar."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.56438,
+          41.68274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "512",
+        "name": "Sultan Selim Camii",
+        "type": "cami",
+        "who": "Aşçı Dede",
+        "date_general": "Ekim 1903 - Ekim 1906",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.55918,
+          41.67814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "512",
+        "name": "Sultan Selim Camii",
+        "type": "cami",
+        "who": "Aşçı Dede",
+        "date_general": "Ekim 1903 - Ekim 1906",
+        "date": "16 Ekim 1903",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.55918,
+          41.67814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "519",
+        "name": "Sultan Selim Camii önünden geçip mekteb-i idadiye karşısına gelince, matbaa memuru Dağıstani Yüzbaşı Hacı Mehmed Emin Efendi merhumun köşe başında olan hanesine muttasıl kayınvalidesinin hanesi [Aşçı Dede için icar olunan hane]",
+        "type": "hane",
+        "who": "Ali Remzi Efendi'nin mahdumu Behzad Bey",
+        "date_general": "Ekim 1903 - Ekim 1906",
+        "date": "21 Ekim 1903",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.56041,
+          41.67973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "520",
+        "name": "piyade kışlası",
+        "type": "kışla",
+        "who": "Aşçı Dede",
+        "date_general": "Ekim 1903 - Ekim 1906",
+        "date": "22 Ekim 1903",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.54155,
+          41.69682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "519",
+        "name": "Sultan Selim Camii önünden geçip mekteb-i idadiye karşısına gelince, matbaa memuru Dağıstani Yüzbaşı Hacı Mehmed Emin Efendi merhumun köşe başında olan hanesine muttasıl kayınvalidesinin hanesi [Aşçı Dede için icar olunan hane]",
+        "type": "hane",
+        "who": "Aşçı Dede",
+        "date_general": "Ekim 1903 - Ekim 1906",
+        "date": "22 Ekim 1903",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.56041,
+          41.67973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1010",
+        "name": "Sofulu kazası",
+        "type": "kaza",
+        "who": "üvey oğlu Arif Bey",
+        "date_general": "Ekim 1903 - Ekim 1906",
+        "date": "1903",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.30047,
+          41.19444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "503",
+        "name": "Mevlevihane",
+        "type": "mevlevihane",
+        "who": "Aşçı Dede",
+        "date_general": "Ekim 1903 - Ekim 1906",
+        "date": "",
+        "text": "Badehu âyîn-i şerîf günü olmakla Mevlevîhaneye gittim. Çoktan beri terk eyledikleri “ Aşçı Dede’nin Tatar hüzzamını dördüncü selâmda mutrıbda çaldılar. Artık anladım ki bu yüzsüz asi Aşçı Dedelerinin bugün bayramı olduğundan Cenâb-ı Mevlânâ kuddise sırruhu’l-azîz tarafından dahi makâm-ı tebrîkte Neyzenbaşı Hüsameddin Efendi oğlumuza telgraftı ma’neviyyesiyle mezkûr hüzzamın çalınmasına emr ü irade buyurulmuş demek olduğundan semahaneden çıkıp mahsus odalarına gidip makâm-ı teşekkürde dedim ki “ Nazarınıza kim haber verdi ki bugün Aşçı Dede’nin bayramı? ” diye vukuattan haberdar ettim ve hem de nezriniz hazırdır azizim diye arz u niyaz ile hâne-i fakîrîye avdet ettim."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.56438,
+          41.68274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "519",
+        "name": "Sultan Selim Camii önünden geçip mekteb-i idadiye karşısına gelince, matbaa memuru Dağıstani Yüzbaşı Hacı Mehmed Emin Efendi merhumun köşe başında olan hanesine muttasıl kayınvalidesinin hanesi [Aşçı Dede için icar olunan hane]",
+        "type": "hane",
+        "who": "Aşçı Dede",
+        "date_general": "Ekim 1903 - Ekim 1906",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.56041,
+          41.67973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "519",
+        "name": "Sultan Selim Camii önünden geçip mekteb-i idadiye karşısına gelince, matbaa memuru Dağıstani Yüzbaşı Hacı Mehmed Emin Efendi merhumun köşe başında olan hanesine muttasıl kayınvalidesinin hanesi [Aşçı Dede için icar olunan hane]",
+        "type": "hane",
+        "who": "Ali Remzi Efendi'nin mahdumu Behzad Bey",
+        "date_general": "Ekim 1903 - Ekim 1906",
+        "date": "28 Ekim 1903",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.56041,
+          41.67973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "519",
+        "name": "Sultan Selim Camii önünden geçip mekteb-i idadiye karşısına gelince, matbaa memuru Dağıstani Yüzbaşı Hacı Mehmed Emin Efendi merhumun köşe başında olan hanesine muttasıl kayınvalidesinin hanesi [Aşçı Dede için icar olunan hane]",
+        "type": "hane",
+        "who": "Sadık Paşa",
+        "date_general": "Ekim 1903 - Ekim 1906",
+        "date": "1904",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.56041,
+          41.67973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "503",
+        "name": "Mevlevihane",
+        "type": "mevlevihane",
+        "who": "Aşçı Dede",
+        "date_general": "Ekim 1903 - Ekim 1906",
+        "date": "26 Şubat 1904",
+        "text": "Şöyle ki bin üç yüz yirmi bir senesi Zilhicce-i şerîfin onuncu [26 Şubat 1904] bayram gecesi akşamdan taama ve ba’de’l-işâ icrâ-yı âyîn-i şerîfe med’uv olarak Edirne Mevlevîhanesi’ne gittim. Esnâ-yı muhabbette Hazret-i Şeyh Salâhaddin Efendi’ye dedim ki “ Yarınki gün elbise-i resmiyyeyi iksâ ile. daireye gitmeye hiç vaktim yoktur. Ne dersiniz? ” Cevabında buyurdular ki dest-i reşâdetleriyle sakallarını tutup yani bu.sinn ü sâlde nereye gideceksiniz işaretini verdikten sonra buyurdular ki “ Bayram namazını Sultan Selim Câmi’-i şerîfi’nde eda edip ba’dehu haneye avdetle kurbanınızı zebh.ve ciğerinden eki eyledikten sonra [347] saat üç raddelerinde elbise-i âdiyeniz ile buraya gelip fakirleriyle birlikte bir arabaya râkiben müşir paşa hazretleriyle sair paşalar hazerâtını ziyaret ederiz ” ifadeleri üzerine teşekkür ederek gece saat beşte fakirhaneye avdetle uyku âlemine geçtim. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.56438,
+          41.68274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "519",
+        "name": "Sultan Selim Camii önünden geçip mekteb-i idadiye karşısına gelince, matbaa memuru Dağıstani Yüzbaşı Hacı Mehmed Emin Efendi merhumun köşe başında olan hanesine muttasıl kayınvalidesinin hanesi [Aşçı Dede için icar olunan hane]",
+        "type": "hane",
+        "who": "Aşçı Dede",
+        "date_general": "Ekim 1903 - Ekim 1906",
+        "date": "26 Şubat 1904",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.56041,
+          41.67973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "514",
+        "name": "Levazım Reisi Ahmed Kemal Paşa'nın huzuru [şubede olabilir?]",
+        "type": "",
+        "who": "Aşçı Dede",
+        "date_general": "Ekim 1903 - Ekim 1906",
+        "date": "Nisan 1904",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.55429,
+          41.6775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "509",
+        "name": "Eski Cami",
+        "type": "cami",
+        "who": "Aşçı Dede",
+        "date_general": "Ekim 1903 - Ekim 1906",
+        "date": "19 Temmuz 1901",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.55578,
+          41.67664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "505",
+        "name": "Vilayet dairesi",
+        "type": "resmi daire",
+        "who": "Aşçı Dede",
+        "date_general": "Ekim 1903 - Ekim 1906",
+        "date": "24 Ağustos 1904",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.55133,
+          41.67947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "519",
+        "name": "Sultan Selim Camii önünden geçip mekteb-i idadiye karşısına gelince, matbaa memuru Dağıstani Yüzbaşı Hacı Mehmed Emin Efendi merhumun köşe başında olan hanesine muttasıl kayınvalidesinin hanesi [Aşçı Dede için icar olunan hane]",
+        "type": "hane",
+        "who": "Aşçı Dede",
+        "date_general": "Ekim 1903 - Ekim 1906",
+        "date": "24 Ağustos 1904",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.56041,
+          41.67973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "503",
+        "name": "Mevlevihane",
+        "type": "mevlevihane",
+        "who": "Aşçı Dede",
+        "date_general": "Ekim 1903 - Ekim 1906",
+        "date": "13 Ekim 1904",
+        "text": "Ferdâsı günü perşembe günü olduğundan Mevlevîhaneye gittim. Bu rüyayı Şeyh Salahaddin Efendi hazretlerine tamamıyla nakl ü hikâye ettim. Buyurdular ki “ Şimdiden sizi tebşir ve tebrik ile müjde ederim ki hademü haşem sahibi, debdebe dârât sahibi olacaksınız, büyük memuriyette bulunacaksınız, bizi hatırdan çıkarmayasınız” buyurdular. Ve bir müddet sonra buyurdular ki “ Sizi burada birinci şubeye müdür edelim. ” Fakir de teşekkürler arz u niyaz ettim azizim."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.56438,
+          41.68274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "520",
+        "name": "Sadık Paşa'nın kışladaki daireleri",
+        "type": "askeriye",
+        "who": "Aşçı Dede",
+        "date_general": "Ekim 1903 - Ekim 1906",
+        "date": "6 Kasım 1903",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.54155,
+          41.69682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "505",
+        "name": "Vilayet dairesi",
+        "type": "resmi daire",
+        "who": "Aşçı Dede",
+        "date_general": "Ekim 1903 - Ekim 1906",
+        "date": "24 Ekim 1904",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.55133,
+          41.67947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "514",
+        "name": "Aşçı Dede'nin çalıştığı şube",
+        "type": "askeriye",
+        "who": "Aşçı Dede",
+        "date_general": "Ekim 1903 - Ekim 1906",
+        "date": "24 Ekim 1904",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.55429,
+          41.6775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "514",
+        "name": "Aşçı Dede'nin çalıştığı şube",
+        "type": "askeriye",
+        "who": "Aşçı Dede",
+        "date_general": "Ekim 1903 - Ekim 1906",
+        "date": "26 Nisan 1904",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.55429,
+          41.6775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "514",
+        "name": "Aşçı Dede'nin çalıştığı şube",
+        "type": "askeriye",
+        "who": "Aşçı Dede",
+        "date_general": "Ekim 1903 - Ekim 1906",
+        "date": "29 Aralık 1904",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.55429,
+          41.6775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "509",
+        "name": "Eski Cami",
+        "type": "cami",
+        "who": "Aşçı Dede",
+        "date_general": "Ekim 1903 - Ekim 1906",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.55578,
+          41.67664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "519",
+        "name": "Sultan Selim Camii önünden geçip mekteb-i idadiye karşısına gelince, matbaa memuru Dağıstani Yüzbaşı Hacı Mehmed Emin Efendi merhumun köşe başında olan hanesine muttasıl kayınvalidesinin hanesi [Aşçı Dede için icar olunan hane]",
+        "type": "hane",
+        "who": "Aşçı Dede",
+        "date_general": "Ekim 1903 - Ekim 1906",
+        "date": "",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.56041,
+          41.67973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "509",
+        "name": "Eski Cami",
+        "type": "cami",
+        "who": "Aşçı Dede",
+        "date_general": "Ekim 1903 - Ekim 1906",
+        "date": "1 Eylül 1905",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.55578,
+          41.67664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "519",
+        "name": "Sultan Selim Camii önünden geçip mekteb-i idadiye karşısına gelince, matbaa memuru Dağıstani Yüzbaşı Hacı Mehmed Emin Efendi merhumun köşe başında olan hanesine muttasıl kayınvalidesinin hanesi [Aşçı Dede için icar olunan hane]",
+        "type": "hane",
+        "who": "Aşçı Dede",
+        "date_general": "Ekim 1903 - Ekim 1906",
+        "date": "1-2 Eylül 1905",
+        "text": "O gece yani cumartesi ki şehrayin idi, saat sekizde Tophane cihetinden harîk zuhur etti ve bir de rüzgâr çıktı, Kaleiçi tabir olunur mahalleden ateş üç dört kola taksim olup herkes şaşırıp önünü almak ve söndürmek adîmü’l-imkân olarak yirmi dört saat ale’d-devâm harîk mümted oldu. Nihayet pazar gecesi saat yedi raddelerinde sönüp iki saat sonra yine bir mahalden ateş zuhur etti. Artık havf u dehşet fevkalâde olup refikam ile beraber can ü gönülden pencereden harîk mahalline müteveccihen salâvât-ı şerîfeye devam ettik. Lehu’l-hamdu ve’l-minne merhamet ü magfiret-i ilâhiyye cilve-nümâ-yı zuhûruyla bir saat kadar mümted olup söndü ve herkes rahat u huzur buldu. Muharrak olan hane, iki bin haneyi mütecaviz ve cümlesi Rum ve Hıristiyan ve Yahudi haneleri ve kiliseleri idi. Edirne Edirne olalı böyle şiddetli harîk görmemiştir. Fe-subhânallâhi’l-kâdir, [607] namazda endâht olunan manevî top güllesi uzağa gitmeyip yanımıza düşmüş ve oradan ateş almış demektir azizim. Ama nazarın der isen ki gerek Müslim ve gerek kâfir cümlesi mahlûk-ı Hudâ’dır, âmennâ ve saddaknâ, öyledir. Ammâ elbette bunların da bir fikr-i fâsid ve bir mekr-i hîleleri olmalı ki kazdıkları kuyuya kendileri düştü. Hatta esnâ-yı harîkte kimin hanesi ise iki defa dinamit patladı, sedası Edirne’yi tuttu mevlânâ."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.56041,
+          41.67973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "514",
+        "name": "Aşçı Dede'nin çalıştığı şube",
+        "type": "askeriye",
+        "who": "Aşçı Dede",
+        "date_general": "Ekim 1903 - Ekim 1906",
+        "date": "1905",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.55429,
+          41.6775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "519",
+        "name": "Sultan Selim Camii önünden geçip mekteb-i idadiye karşısına gelince, matbaa memuru Dağıstani Yüzbaşı Hacı Mehmed Emin Efendi merhumun köşe başında olan hanesine muttasıl kayınvalidesinin hanesi [Aşçı Dede için icar olunan hane]",
+        "type": "hane",
+        "who": "Operatör Binbaşı Artin Efendi",
+        "date_general": "Ekim 1903 - Ekim 1906",
+        "date": "8 Ekim 1905",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.56041,
+          41.67973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "521",
+        "name": "Aşçı Dede'nin hanesine muttasıl mahalle camii [daha önce bahsi geçmiş miydi bu caminin?]",
+        "type": "cami",
+        "who": "Aşçı Dede",
+        "date_general": "Ekim 1903 - Ekim 1906",
+        "date": "5 Kasım 1905",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.56121,
+          41.67944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "519",
+        "name": "Sultan Selim Camii önünden geçip mekteb-i idadiye karşısına gelince, matbaa memuru Dağıstani Yüzbaşı Hacı Mehmed Emin Efendi merhumun köşe başında olan hanesine muttasıl kayınvalidesinin hanesi [Aşçı Dede için icar olunan hane]",
+        "type": "hane",
+        "who": "Tahsin Beyefendi'nin mahdumu Nafiz Beyefendi",
+        "date_general": "Ekim 1903 - Ekim 1906",
+        "date": "15 Kasım 1905 [burada tarihte bir problem var; günlerden Salı olduğunu söylüyor ama 18 Ramazan Perşembe gününe denk geliyor?]",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.56041,
+          41.67973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "503",
+        "name": "Mevlevihane",
+        "type": "mevlevihane",
+        "who": "Aşçı Dede",
+        "date_general": "Ekim 1903 - Ekim 1906",
+        "date": "12 Nisan 1906",
+        "text": "Müşarünileyh Necib Efendi hazretlerinin Edirne’yi teşrifleriyle meclis-i enverlerinde sohbet ü muhabbet-i necîbâne ve hikmet-âmîz nutk u kelâmları berekâtıyla ıtlâkımız çıkıp buyurun dedem Mevlevîhaneye ve zevk ü sefâ-yı bî-nihâye bahş ü ihsan edici meydân-ı aşk olan semahaneye dediler. Binaenaleyh ve müşarünileyh Necib Efendi hazretlerine teşekküren müşarünileyh ile beraberce fî 18 Saferü’l-hayr sene 324 [12 Nisan 1906] ve fî 30 Mart sene 322 yevm-i perşembe idi, atebe-i felek-mertebe-i hazret-i şeyh ile dergâh-ı şerîf hâk-i ıtrnâk-ı kudsiyyesine yüz ve göz sürdük azizim.  "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.56438,
+          41.68274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "509",
+        "name": "Eski Cami",
+        "type": "cami",
+        "who": "Aşçı Dede",
+        "date_general": "Ekim 1903 - Ekim 1906",
+        "date": "27 Nisan 1906",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.55578,
+          41.67664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "512",
+        "name": "Sultan Selim Han [Selimiye] Camii",
+        "type": "cami",
+        "who": "Aşçı Dede",
+        "date_general": "Ekim 1903 - Ekim 1906",
+        "date": "4 Mayıs 1906",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.55918,
+          41.67814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "503",
+        "name": "Mevlevihane",
+        "type": "mevlevihane",
+        "who": "Aşçı Dede",
+        "date_general": "Ekim 1903 - Ekim 1906",
+        "date": "11 Mayıs Cuma",
+        "text": "îşte azizim, gelecek cuma ki Rebiülevvelin on yedisi [11 Mayıs 1906] ve Nisanın yirmi sekizi olacağından nevbet-i devr-i cevâmi’-i şerîfe Üçşerefeli Câmi’-i şerîfin idi ki üçler aşkına üçüncü devir cuması ve üçüncü câmi’-i şerîf olacak iken Cenâb-ı Pîr Mevlânâ [828] kuddise sırruhu’l-azîz efendimiz hazretlerinden nidâ-yı ma’nevî olarak gönül âlemine gelen hitâb-ı bâ-savâb bu idi ki “ Yüzsüz asi Aşçı Dedemiz, üçleri bizde bulursun, üçler bizim dergâhımızda bulunur ki Sultan Veledimizin semâhâne-i aşkta semaa şürû’undan evvel olan Sultan Veled devri üçlere remz ü işaretle üç kere semâhâne-i aşk etrafı devr olunur biyâ biyâ ” diye davet-i ma’nevîsi imiktezasmdan olmak üzere Mevlevîhanenin o cuma mevlid-i nebevî kıraati davet ve cem’iyyet-i âlîsi olmakla zâhir ü bâtın olunan davete icabetle Mevlevîhaneye gidilip cuma namazı Muradiye Câmi’-i şerîfi’nde eda olundu.  "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.56438,
+          41.68274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "510",
+        "name": "Muradiye Camii",
+        "type": "cami",
+        "who": "Aşçı Dede",
+        "date_general": "Ekim 1903 - Ekim 1906",
+        "date": "11 Mayıs 1906",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.56479,
+          41.68242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "515",
+        "name": "Üç Şerefeli Camii",
+        "type": "cami",
+        "who": "Aşçı Dede",
+        "date_general": "Ekim 1903 - Ekim 1906",
+        "date": "18 Mayıs 1906",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.55336,
+          41.67812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "522",
+        "name": "Yeni İmaret'teki Sultan Beyazıd Han Camii [Beyazıd II]",
+        "type": "cami",
+        "who": "Aşçı Dede",
+        "date_general": "Ekim 1903 - Ekim 1906",
+        "date": "25 Mayıs 1906",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.54435,
+          41.68566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "523",
+        "name": "Sultan Yıldırım Beyazıd Han Camii [Beyazıd I]",
+        "type": "cami",
+        "who": "Aşçı Dede",
+        "date_general": "Ekim 1903 - Ekim 1906",
+        "date": "1 Haziran 1906",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.53239,
+          41.67803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "503",
+        "name": "Mevlevihane",
+        "type": "mevlevihane",
+        "who": "Aşçı Dede",
+        "date_general": "Ekim 1903 - Ekim 1906",
+        "date": "31 Mayıs 1906",
+        "text": "Perşembe günü Mevlevîhanede bizim Sertabip Miralay izzetlû Hüsnü Bey’i gördüm. Buyurdular ki “ Aman hacı efendi pek rica ederim, bizim odanın kapısına da ayaklarınızı sürtünüz ki bendeniz de İstanbul’a gideyim ” diyerek başladık gülüşmeye azizim ve bunun için şu bir beyti de söyledim ..."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.56438,
+          41.68274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "524",
+        "name": "Zindanaltı tabir olunan mahale karib Darülhadis Camii",
+        "type": "cami",
+        "who": "Aşçı Dede",
+        "date_general": "Ekim 1903 - Ekim 1906",
+        "date": "8 Haziran 1906",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.54832,
+          41.67115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "525",
+        "name": "Darülhadis Camii'nin dışından olan sultan ve şehzade kabirleri",
+        "type": "kabristan",
+        "who": "Aşçı Dede",
+        "date_general": "Ekim 1903 - Ekim 1906",
+        "date": "8 Haziran 1906",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.54822,
+          41.67103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "526",
+        "name": "Evliya Kasım Paşa Camii",
+        "type": "cami",
+        "who": "Aşçı Dede",
+        "date_general": "Ekim 1903 - Ekim 1906",
+        "date": "15 Haziran 1906",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.56035,
+          41.66427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "527",
+        "name": "Evliya Kasım Paşa Camii'nin ittisalindeki kabristan",
+        "type": "kabristan",
+        "who": "Aşçı Dede",
+        "date_general": "Ekim 1903 - Ekim 1906",
+        "date": "15 Haziran 1906",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.56043,
+          41.66464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "528",
+        "name": "Hazret-i Sezai Camii",
+        "type": "cami",
+        "who": "Aşçı Dede",
+        "date_general": "Ekim 1903 - Ekim 1906",
+        "date": "22 Haziran 1906",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.55782,
+          41.66929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "529",
+        "name": "Hamidiye Köprüsü ittisalindeki Gazi Mihal Camii",
+        "type": "cami",
+        "who": "Aşçı Dede",
+        "date_general": "Ekim 1903 - Ekim 1906",
+        "date": "29 Haziran 1906",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.54029,
+          41.67587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "509",
+        "name": "Eski Cami",
+        "type": "cami",
+        "who": "Aşçı Dede",
+        "date_general": "Ekim 1903 - Ekim 1906",
+        "date": "6 Temmuz 1906",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.55578,
+          41.67664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "514",
+        "name": "Aşçı Dede'nin çalıştığı şubedeki cami",
+        "type": "cami",
+        "who": "Aşçı Dede",
+        "date_general": "Ekim 1903 - Ekim 1906",
+        "date": "7 Temmuz 1906",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.55429,
+          41.6775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "509",
+        "name": "Eski Cami",
+        "type": "cami",
+        "who": "Aşçı Dede",
+        "date_general": "Ekim 1903 - Ekim 1906",
+        "date": "13 Temmuz 1906",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.55578,
+          41.67664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "509",
+        "name": "Eski Cami",
+        "type": "cami",
+        "who": "Aşçı Dede",
+        "date_general": "Ekim 1903 - Ekim 1906",
+        "date": "20 Temmuz 1906",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.55578,
+          41.67664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "503",
+        "name": "Mevlevihane",
+        "type": "mevlevihane",
+        "who": "Aşçı Dede",
+        "date_general": "Ekim 1903 - Ekim 1906",
+        "date": "21 Haziran 1906",
+        "text": "Zaten Hazret-i Pîr Mevlânâ Celâleddin-i Rûmî kuddise sırruhu’l-azîz efendimiz ile fî 28 Rebiülâhir sene 324 [21 Haziran 1906] ve fî 8 Haziran sene 322 perşembe günü meydân-ı aşk u muhabbet olan semahanede veda olunmuş idi."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.56438,
+          41.68274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "509",
+        "name": "Eski Cami",
+        "type": "cami",
+        "who": "Aşçı Dede",
+        "date_general": "Ekim 1903 - Ekim 1906",
+        "date": "25 Eylül 1906",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.55578,
+          41.67664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "503",
+        "name": "Mevlevihane",
+        "type": "mevlevihane",
+        "who": "Aşçı Dede",
+        "date_general": "Ekim 1903 - Ekim 1906",
+        "date": "25 Eylül 1906",
+        "text": "Fakir de arabaya râkiben diğer caddeden cenazeden evvelce Mevlevîhaneye gidip gül-i ra’nâ gibi açılmış hoş-bûy-ı misk ü anber saçılmış olan kabrinin başında muntazır-ı Hazret-i Hâlid oldum. Niçin olmayayım ki ruhaniyetleri sayesiyle arif-billâh olan bir müşîr-i âlîşânın mazhar-ı iltifatı oldum. Lâkin ulü’l-emre itaat sırrından gafil olan hussâd-ı asrın hasetlerine dokunup bu kadar da tabasbus etmenin lüzûmu yoktur diyerek birtakım itirazda bulundular.  [burada ne oluyor tam olarak anlayamadım?]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.56438,
+          41.68274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "530",
+        "name": "topçu kalesi ittisalinde Hızır Baba türbesi",
+        "type": "",
+        "who": "haremi Dilber Hanım ile beraber taallukattan Şems Hanım ve Şems Hanım’ın yetim kalan iki oğullan",
+        "date_general": "Ekim 1903 - Ekim 1906",
+        "date": "29 Eylül 1906",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.52039,
+          41.68598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "501",
+        "name": "merkez hastahanesi",
+        "type": "hastahane",
+        "who": "Aşçı Dede",
+        "date_general": "Ekim 1903 - Ekim 1906",
+        "date": "1 Ekim 1906",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.53549,
+          41.70255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "514",
+        "name": "Aşçı Dede'nin çalıştığı şube",
+        "type": "askeriye",
+        "who": "Aşçı Dede",
+        "date_general": "Ekim 1903 - Ekim 1906",
+        "date": "6 Ekim 1906",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.55429,
+          41.6775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "502",
+        "name": "şimendifer",
+        "type": "istasyon",
+        "who": "Aşçı Dede",
+        "date_general": "Ekim 1903 - Ekim 1906",
+        "date": "6 Ekim 1906",
+        "text": "... akşamı şimendifere râkiben ve zât-ı ehahidyyete müteveccihen Dersaadet’e izam olunduk mevlânâ-yı mâ ve cân-ı azîz-i şumâ."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.52154,
+          41.65161
+        ]
+      }
+    }
+  ]
+}
