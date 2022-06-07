@@ -1,4 +1,4 @@
-var asci_istanbul = 
+asci_istanbul = 
 {
     "type": "FeatureCollection",
     "crs": {
